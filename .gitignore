@@ -1,6 +1,6 @@
 .DS_Store
-.idea/*
-ProofOfConcept/.ipynb_checkpoints/*
+.idea/**
+ProofOfConcept/.ipynb_checkpoints/**
 ProofOfConcept/Roberta.py
-datasets/cryptonite-official-split/*
-ProofOfConcept/processed_dataset/*
+datasets/cryptonite-official-split/**
+ProofOfConcept/ProcessedDatasets/**
