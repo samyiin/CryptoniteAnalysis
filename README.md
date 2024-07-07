@@ -20,7 +20,7 @@ Or from my google drive (Because my github cannot upload big files):
 	https://drive.google.com/drive/folders/177zxNj-O8mpLa1-U9Aj0j2_uH2jcW1S5?usp=sharing
 All the other data, for example, the preprocessed dataset for proof of concept is, as well as the trained model savetensors are also on my drive.  
 1. Saved models for multiple choice (PoC): ProofOfConcept/Models  
-2, Saved preprocesed dataset for multiple choice (PoC): ProofOfConcept/ProcessedDatasets
+2. Saved preprocesed dataset for multiple choice (PoC): ProofOfConcept/ProcessedDatasets
 
 ## Multiple Choice *2024.07.07*
 My first step is trying to see if the language model can capture some information of the answer from the clue sentences. So we decided that we will let the model do multiple choice. We generated three answers in addtion to the correct answer. The geenrated answers have the same structure of the original answer (same number of words and same number of letters for each word).  
