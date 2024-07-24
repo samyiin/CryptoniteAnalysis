@@ -61,6 +61,9 @@ The first attempt will be to calibrate loss function: give huge punishment to wo
 ### Pick Top Correct Words
 The second attept will be using the trained models from baseline, but only pick from the words with correct length. This can be done by setting mask for set of correct words. The problem for this approach is when answer looks like (1, 4, 3, 7), then the highest probability for each position after masking might not be the highest probability for the combinantion. 
 
+### Customize Tokenizer
+Make words with same length more similar to each other in addtion to "context". Such as adding an "regularize term".
+
 ## Chain of Thought
 Another idea we have is to first identify the "definiton" and "wordplay" part of the clue, and then use models to find answers. 
 
