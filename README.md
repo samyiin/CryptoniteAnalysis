@@ -36,12 +36,12 @@ A potential extension for the multiple choice task is, we can run our model over
 After a few weeks of trying, I start to developed a more holistic view regarding setting baselines for the models. Here are the steps that I am going to follow: 
 ### Seq2Seq (ConditionalGeneration), RAW
 [inprogress: *2024.07.24* , Hsin-Chun Yin]  
-I will finetune Bart-base/large, T5-base/large on the dataset with enumeration clue (fast clue). According to the paper, the author finetuned T5-large, lr=10e-4, batch_size=7k tokens, epoch_num=10, and nothing else, just raw input and output noraml DL. And they got 13% with the enumeration clue and 5% without. So the first thing we should do is to recreate this result on the text generation models.  
+I will finetune Bart-base/large-cnn, T5-small/XL(3B) on the dataset with enumeration clue (fast clue). According to the paper, the author finetuned T5-large, lr=10e-4, batch_size=7k tokens, epoch_num=10, and nothing else, just raw input and output noraml DL. And they got 13% with the enumeration clue and 5% without. So the first thing we should do is to recreate this result on the text generation models.  
 In order to fine tune the large models, I will use Low Rank Adaptation (LoRA) techniques, because google colab is expensive....
 
 ### Mask (MaskedLM), RAW
 [inprogress: *2024.07.24* , Dalia Spira]  
-I will use RobertaForMaskedLM, for Roberta-base/Large and Deberta-base/Large. The sentence will look like "A synonym for <mask> is <clue>" (We think formulating a sentence this way will get better results because the corpus that the model trained on probably some sentences that looks like this. The natural advangae of masked LM is that we can control the length of letters. 
+I will use RobertaForMaskedLM, for Roberta-base/Large and Deberta-base/Large. The sentence will look like "A synonym for <mask> is <clue>" (We think formulating a sentence this way will get better results because the corpus that the model trained on probably some sentences that looks like this. The natural advangae of masked LM is that we can control the length of letters. There might be a potential thread here: we can use multiple masks, without space between them, to simulate the number of letters. But Before training, we ran a  experiment, and it's not that successful: the model will not treat the concatnated word as one word, rather it will print two words that can concatnate together. 
 
 ### QA
 [inprogress: *2024.07.24* , Hsin-Chun Yin]  
