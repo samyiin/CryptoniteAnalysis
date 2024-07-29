@@ -34,16 +34,16 @@ A potential extension for the multiple choice task is, we can run our model over
 ## Baselines
 [inprogress: *2024.07.24* , Hsin-Chun Yin]  
 After a few weeks of trying, I start to developed a more holistic view regarding setting baselines for the models. Here are the steps that I am going to follow: 
-### Seq2Seq (ConditionalGeneration), RAW
+**Seq2Seq (ConditionalGeneration), RAW**  
 [inprogress: *2024.07.24* , Hsin-Chun Yin]  
 I will finetune Bart-base/large-cnn, T5-small/large on the dataset with enumeration clue (fast clue). According to the paper, the author finetuned T5-large, lr=10e-4, batch_size=7k tokens, epoch_num=10, and nothing else, just raw input and output noraml DL. And they got 13% with the enumeration clue and 5% without. So the first thing we should do is to recreate this result on the text generation models.  
 In order to fine tune the large models, I will use Low Rank Adaptation (LoRA) techniques. Later on I will just use LoRA on every model. All the training scripts are under the baselines/ directory. 
 
-### Mask (MaskedLM), RAW
+**Mask (MaskedLM), RAW**  
 [inprogress: *2024.07.24* , Dalia Spira]  
 I will use RobertaForMaskedLM, for Roberta-base/Large and Deberta-base/Large. The sentence will look like "A synonym for <mask> is <clue>" (We think formulating a sentence this way will get better results because the corpus that the model trained on probably some sentences that looks like this. The natural advangae of masked LM is that we can control the length of letters. There might be a potential thread here: we can use multiple masks, without space between them, to simulate the number of letters. But Before training, we ran a  experiment, and it's not that successful: the model will not treat the concatnated word as one word, rather it will print two words that can concatnate together. 
 
-### QA
+ **QA**    
 [inprogress: *2024.07.24* , Hsin-Chun Yin]  
 ??????
 
@@ -51,27 +51,6 @@ I will use RobertaForMaskedLM, for Roberta-base/Large and Deberta-base/Large. Th
 [inprogress: *2024.07.24* , Elchanan]  
 ???
 
-
-## Control Letter Length
-[inprogress: *2024.07.24* , Hsin-Chun Yin]   
-After we receive the baseline results, the first attempt to improve the model will be on the enumeration field. This decision is natural because when we are playing crossword puzzles, when we think of an answer, the first thing we check is if the word have the right length. So we will control the letter length and the word length for the output and see if it improves the result. 
-### Calibrate Loss Function
-The first attempt will be to calibrate loss function: give huge punishment to words with incorrect length. This can be achieved by batch_decode the output of model in each iteration. 
-
-### Pick Top Correct Words
-The second attept will be using the trained models from baseline, but only pick from the words with correct length. This can be done by setting mask for set of correct words. The problem for this approach is when answer looks like (1, 4, 3, 7), then the highest probability for each position after masking might not be the highest probability for the combinantion. 
-
-### Customize Tokenizer
-Make words with same length more similar to each other in addtion to "context". Such as adding an "regularize term".
-
-## Chain of Thought
-Another idea we have is to first identify the "definiton" and "wordplay" part of the clue, and then use models to find answers. 
-
-## Characterize Datasets
-Characterize different questions, and train LoRA on each. (Like what apple did)
-
-## In Context Learning
-????
 
 
 
