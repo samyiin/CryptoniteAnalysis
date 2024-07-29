@@ -67,6 +67,9 @@ Make words with same length more similar to each other in addtion to "context". 
 ## Chain of Thought
 Another idea we have is to first identify the "definiton" and "wordplay" part of the clue, and then use models to find answers. 
 
+## Characterize Datasets
+Characterize different questions, and train LoRA on each. (Like what apple did)
+
 ## In Context Learning
 ????
 
