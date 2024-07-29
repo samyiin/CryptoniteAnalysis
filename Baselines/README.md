@@ -13,6 +13,8 @@ Anyways, the result for the baselines are (* Notice that the accuracy includes t
 2. bart-large-cnn: (batch_size=16, epoch=3, lr=5e-04, LoRA) test_accuracy: 0.024999999999999974 train_accuracy：0.2631578947368421
 3. t5-small: (batch_size=16, epoch=5, lr=5e-05) test_accuracy: 0.4931245750809229 train_accuracy: 0.5882352941176471
 4. t5-large: (batch_size=16, epoch=3, lr=5e-04, LoRA, sub-sampled) test_accuracy: 0.5492572409585335 train_accuracy: 0.4918032786885246
+
+
 For bart-large and t5-large, I used the same training script, and the loss is reducing during training, so it rules out the possibility of bugs. But why does bart-large performs so bad?
 For results in each epoch I stored them on the drive. 
 So what is the next step?
