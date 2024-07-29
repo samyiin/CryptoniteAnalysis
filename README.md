@@ -34,7 +34,7 @@ A potential extension for the multiple choice task is, we can run our model over
 ## Baselines
 After a few weeks of trying, I start to developed a more holistic view regarding setting baselines for the models. Here are the steps that I am going to follow:   
 **Seq2Seq (ConditionalGeneration), RAW**  
-[finished: *2024.07.24* , Hsin-Chun Yin]  
+[finished: *2024.07.29* , Hsin-Chun Yin]  
 I will finetune Bart-base/large-cnn, T5-small/large on the dataset with enumeration clue (fast clue). According to the paper, the author finetuned T5-large, lr=10e-4, batch_size=7k tokens, epoch_num=10, and nothing else, just raw input and output noraml DL. And they got 13% with the enumeration clue and 5% without. So the first thing we should do is to recreate this result on the text generation models.  
 I reported tge results in the readme of Baselines folder. 
 
