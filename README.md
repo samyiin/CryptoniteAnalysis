@@ -1,6 +1,6 @@
 # CryptoniteAnalysis
 ## Authors
-This is a joined project of Hsin-Chun Yin, Tahila Mescheloff, Peleg Oppenheimer, Elchanan <last_name?> and Dalia Spira. 
+This is a joined project of Hsin-Chun Yin, Tahila Mescheloff, Peleg Oppenheimer, Elchanan Schnaidman and Dalia Spira. 
 
 ## How to run the code locally?
 All our code so far runs on google colab, the github and all the notebook you see is just copies of the notebooks on my google drive. If you need to rerun the code locally, you might need to setup a venv and install some packages, and also change the file directory in the notebooks. (I tried to change all the cwd in the future notebooks so it can run on local machines easiler, but I might oversee some old notebooks.)
@@ -43,7 +43,7 @@ I reported tge results in the readme of Baselines folder.
 I will use RobertaForMaskedLM, for Roberta-base/Large and Deberta-base/Large. The sentence will look like "A synonym for <mask> is <clue>" (We think formulating a sentence this way will get better results because the corpus that the model trained on probably some sentences that looks like this. The natural advangae of masked LM is that we can control the length of letters. There might be a potential thread here: we can use multiple masks, without space between them, to simulate the number of letters. But Before training, we ran a  experiment, and it's not that successful: the model will not treat the concatnated word as one word, rather it will print two words that can concatnate together. 
 
 ## Esemble Methods
-[inprogress: *2024.07.24* , Elchanan]  
+[inprogress: *2024.07.24* , Elchanan Schnaidman]  
 ???
 
 
