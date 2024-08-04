@@ -43,4 +43,11 @@ Characterize different questions, and train LoRA on each. (Like what apple did)
 ## In Context Learning
 ????
 
+# 2024.08.04
+What are the major challenges? I can see that there is a clear road map by our common sense:
+1. Make the model return the correct structure of words: if the number of words and number of letters for each word are wrong, then according to our common sense this answer is immediately rejected.
+2. Make the model understand wordplay and definition: how to split the clue? Is it possible to split the clue without seeing the answer?
+3. Making the model understand the definition part should be easy.
+4. Making the model understand word play.
+I don't have a plan yet, but I have some thoughts, I feel like positional encoding could be a solution to word play. And curriculum learning could be another direction. Also many other paradigiums such as distilation for models that is good at spliting clues, and/or models that is good at connecting words that sound alike. There are many possibilities. 
 
