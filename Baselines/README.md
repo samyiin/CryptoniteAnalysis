@@ -21,11 +21,11 @@ The result for the baselines are:
 'avg_loss': 0.01681845185953292, 'accuracy': 0.0056581412241465
 
 
-4. 'google-t5/t5-large' (batch_size=16, epoch=3, lr=5e-04, LoRA, sub-sampled):  
+4. 'google-t5/t5-large' (batch_size=16, epoch=3, lr=5e-04, LoRA, sub-sampled=3000*16):  
 'avg_loss': 0.014473656484027674, 'accuracy': 0.012080896127231715
 
 There are a few findings: 
-Every one performs horribily. Somehow bart base preforms better than large models. 
+Every one performs horribily. Somehow bart base preforms better than large models. probably because we subsampled T5 when we are training. But since everything is around 1% accuracy, there's no need to waste more energy on this. 
 If given a smaller dataset to train on, then the accuracy is really high. This may lead to a conclusion that maybe we should classify our dataset first, and LoRA fine tune for each subtask. 
 Maybe we need to train on more epochs?
  
