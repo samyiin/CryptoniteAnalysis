@@ -3,7 +3,7 @@ Throughout the iterative development process, I added more training techniques:
 In the beginning, I just used input and output, the classic DL cycle. It’s in the Raw.ipynb notebook. 
 Then I discovered something called teacher forcing, basically the idea is to provide a real label to the generative model during training. Go search it on google. It’s in the TeacherForcing.ipynb notebook.
 Then I need to tune bigger models, so I use Low Rank Adaptation (LoRA), which is in the LoRATeacher.ipynb notebook, because I use LoRA on top of teacher forcing. 
-But there are still some places for improvement with my training process (especially after I discovered the adapter framework, I recorded these potential improvements in the Training_LoRA.ipynb notebook. But for now we are moving towards another direction, so we will freeze this thread for now. 
+But there are still some places for improvement with my training process, especially after I discovered the adapter framework (go search adaptershub), I recorded these potential improvements in the Training_LoRA.ipynb notebook. But for now we are moving towards another direction, so we will freeze this thread for now. 
 
 The reason I didn’t use the trainer class of hugging face is because I want to leave space for customizing the training process (RL-PPO, adding and saving adapters), but I am not sure if this is a correct decision so far since so far, all the customizations can be achieved through overriding some functions of the trainer class. 
 
