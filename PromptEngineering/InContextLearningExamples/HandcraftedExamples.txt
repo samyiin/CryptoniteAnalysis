@@ -1,0 +1,1086 @@
+﻿**Clue**: Find record above (8)
+**STEP 1**: 
+We will start by identifying the type of the puzzle. We cannot find any indicators for this clue, we assume that it is a Charade (additive) type of puzzle. That means we need to find wordplay words from words or phrases in the clue, and concatenate the wordplay words together. 
+**STEP 2**: 
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, it could be that either “find” or “above” is the definition, In fact it is “FIND”. 
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 8 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since it’s a Charade type puzzle, we will try to find the wordplay words that each phrase in the puzzle cues. 
+It's still not quite clear what the answer can be. Let’s think from another direction: If we think about it:
+1. The answer is synonym of  “FIND” 
+2. The answer is one word with 8 letters
+we would think about the word “DISCOVER”. And indeed, “RECORD” reasonably cues “DISC”, and “ABOVE” reasonably cues “OVER”. If we put the wordplay words “DISC” and “OVER” together, we will get the word “DISCOVER”.
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “DISCOVER” is indeed one word with 8 letters. SECOND, the word “DISCOVER” is a meaningful word and fits the definition “FIND”. 
+So the answer is **DISCOVER**
+
+
+**Clue**: Church house in earlier years (6)
+**STEP 1**: 
+We will start by identifying the type of the puzzle. We cannot find any indicators for this clue, we assume that it is a Charade (additive) type of puzzle. That means we need to find wordplay words from words or phrases in the clue, and concatenate the wordplay words together. 
+**STEP 2**:  
+We will then find the definition.Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “CHURCH HOUSE” is the definition.  
+We noticed that there is a commonly used linkword: “IN”. 
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 6 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since it’s a Charade type puzzle, we will try to find the wordplay words that each phrase in the puzzle cues. Since “CHURCH HOUSE” is the definition followed by the linkword “IN”, we will look at the rest of the clue: “EARLIER” might cues “PRIOR”. 
+It's still not quite clear what the answer can be. Let’s think from another direction: If we think about it:
+1. The answer is synonym of  “CHURCH HOUSE” 
+2. The answer is one word with 8 letters
+3. The answer starts with “PRIOR”,
+we would think about the word “PRIORY”. And indeed, “YEARS” reasonably cues “Y” (Abbreviation). If we put the wordplay words “PRIOR” and “Y” together, we will get the word “PRIORY”.
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “PRIORY” is indeed one word with 6 letters.  SECOND, The word “PRIORY” is a meaningful word and fits the definition “CHURCH HOUSE”. 
+So the answer is **PRIORY**
+
+
+**Clue**: Puzzle failing in China (3, 7)
+**STEP 1**: 
+We will start by identifying the type of the puzzle. We cannot find any indicators for this clue, we assume that it is a Charade (additive) type of puzzle. That means we need to find wordplay words from words or phrases in the clue, and concatenate the wordplay words together. 
+**STEP 2**:  
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “CHINA” is the definition. 
+We noticed that there is a commonly used linkword: “IN”. 
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be two words, the first word is 3 letters long and the second word is 7 letters long. So in total, there are 10 letters. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since it’s a Charade type puzzle, we will try to find the wordplay words that each phrase in the puzzle cues. Since “CHINA” is the definition, and there is the linkword “IN”, we will look at the rest of the clue: “PUZZLE” might cue “TEASER”. 
+It's still not quite clear what the answer can be. Let’s think from another direction:  if we think about it:
+1. The answer is  synonym of “CHINA” 
+2. The answer is two words, the first word is 3 letters long and the second word is 7 letters long
+3. The answer starts with “TEASER”, or “TEA SER” since it’s (3, 7)
+ we would think about the word “TEA SERVICE”. And the “VICE” in “TEA SERVICE” is reasonably cued by “FAILING”. If we put the wordplay words “TEASER” and “VICE” together, we will get the word “TEASERVICE”, and we can rearrange it according to the enumeration to get “TEA SERVICE” (3, 7).
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “TEA SERVICE” is indeed 10 letters that can be broken into (3, 7).  SECOND, The word “TEA SERVICE” is a meaningful word and fits the definition “CHINA”. 
+So the answer is **TEA SERVICE**
+
+
+**Clue**: What babies need is sleep and food (7)
+**STEP 1**: 
+We will start by identifying the type of the puzzle. We cannot find any indicators for this clue, we assume that it is a Charade (additive) type of puzzle. That means we need to find wordplay words from words or phrases in the clue, and concatenate the wordplay words together. 
+**STEP 2**:  
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “WHAT BABIES NEED” is the definition. We noticed that there is a commonly used linkword: “IS”. The linkword “IS” suggests that the answer, a synonym to the definition, can be formed from the rest of the clue. 
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 7 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since it’s a Charade type puzzle, we will try to find the wordplay words that each phrase in the puzzle cues. Since “WHAT BABIES NEED” is the definition, and there is the linkword “IS”, we will look at the rest of the clue:  Here we find another commonly used linkword: “AND“. “AND” should indicate the linkage within the wordplay. “SLEEP” might cue “NAP”. 
+It's still not quite clear what the answer can be. Let’s think from another direction:  if we think about it:
+1. The answer is “WHAT BABIES NEED” 
+2. The answer starts with “NAP”,
+3. The answer is one word with 7 letters
+ we would think about the word “NAPPIES”. And the “PIES” in “NAPPIES” is reasonably cued by “FOOD”. If we put the wordplay words “NAP” and “PIES” together, we will get the word “NAPPIES”.
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “NAPPIES” is indeed one word with 7 letters.  SECOND, The word “NAPPIES” is a meaningful word and fits the definition “WHAT BABIES NEED”. 
+So the answer is **NAPPIES**
+
+
+
+
+**Clue**: President saw nothing wrong(10)
+**STEP 1**:
+We will start by identifying the type of the puzzle. The word “WRONG” suggests that this puzzle is an Anagram type puzzle. That means we need to shuffle the letters of the wordplay words to form the answer. The wordplay words to shuffle (the anagram fodder) can be word or phrase directly from the clue, or it could be indirect and cued by some words or phrase in the clue. 
+**STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “PRESIDENT” is the definition.
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 10 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since it’s an Anagram type puzzle, we will try to find the anagram fodder. We know that “PRESIDENT” is the definition and “WRONG” is the indicator, then we probably should find the anagram fodder in the rest of the sentence. The clue tells us “SAW NOTHING” *wrong*.
+1. We will see if there is a word or phrase in the clue, that is 10 letters long, so we can rearrange the letters and get the answer. “SAW NOTHING” happens to be 10 letters long. 
+“SAW NOTHING” contains the letters “S A W N O T H I N G”. We know that the definition is “PRESIDENT”, so the first thing that comes to mind is presidents of the United states. Then if we look at the letters, we see that we can rearrange it to “WASHINGTON”.
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “WASHINGTON” is indeed one word with 10 letters.  SECOND, The word “WASHINGTON” is a meaningful word and fits the definition “PRESIDENT”. 
+So the answer is **WASHINGTON**
+
+
+
+
+**Clue**: Mum, listen for a change (6)
+**STEP 1**:
+We will start by identifying the type of the puzzle. The word “CHANGE” suggests that this puzzle is an Anagram type puzzle. That means we need to shuffle the letters of the wordplay words to form the answer. The wordplay words to shuffle (the anagram fodder) can be word or phrase directly from the clue, or it could be indirect and cued by some words or phrase in the clue. 
+**STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “MUM” is the definition.
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 6 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since it’s an Anagram type puzzle, we will try to find the anagram fodder. We know that “MUM” is the definition and “CHANGE” is the indicator, then we probably should find the anagram fodder in the rest of the sentence: “LISTEN FOR A”.
+1. We will see if there is a word or phrase in the clue, that is 6 letters long, so we can rearrange the letters and get the answer. “LISTEN” happens to be 6 letters long. 
+“LISTEN” contains the letters “L I S T E N”. We know that the definition is “MUM”, since it’s a cryptic crossword puzzle, the first thing that comes to mind is the less used definition of “MUM”: not speaking; silent. Then if we look at the letters, we see that we can rearrange it to “SILENT”.
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “SILENT” is indeed one word with 6 letters.  SECOND, The word “SILENT” is a meaningful word and fits the definition “MUM”. 
+So the answer is **SILENT**
+
+
+**Clue**: Fish and chips cooked with lard (9)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We can guess that the clue tells us “CHIPS” *(is) cooked with* “LARD”.
+The word “COOKED” suggests that this puzzle is an Anagram type puzzle. That means we need to shuffle the letters of the wordplay words to form the answer. The wordplay words to shuffle (the anagram fodder) can be word or phrase directly from the clue, or it could be indirect and cued by some words or phrase in the clue. 
+**STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “FISH” is the definition.
+We noticed that there is a commonly used linkword: “AND”. The linkword “AND” suggests that the answer, a synonym to the definition, can be formed from the rest of the clue. 
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 9 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since it’s an Anagram type puzzle, we will try to find the anagram fodder. We know that “FISH” is the definition and “COOKED” is the indicator, then we probably should find the anagram fodder in the rest of the sentence. The clue tells us “CHIPS” *(is) cooked with* “LARD”.
+1. We will see if there is a word or phrase in the clue, that is 9 letters long, so we can rearrange the letters and get the answer. The combination of “CHIPS” and “LARD” happens to be 9 letters long. 
+“CHIPS LARD” contains the letters “C H I P S L A R D”. We know that the definition is “FISH”, we are probably looking for a kind of fish. Also, since it’s a cryptic crossword puzzle, the answers are usually uncommon words. Then if we look at the letters, we see that we can rearrange it to “PILCHARDS”.
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “PILCHARDS” is indeed one word with 9 letters.  SECOND, The word “PILCHARDS” is a meaningful word and fits the definition “FISH”. 
+So the answer is **PILCHARDS**
+
+
+**Clue**: In Poole he represented a port authority (9)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We can guess that the clue tells us to *re-present* “IN POOLE HE”. The word “REPRESENTED” suggests that this puzzle is an Anagram type puzzle. This is a tricky one, because we need to read it as “re-presented” to see that it is an indicator for anagram. That means we need to shuffle the letters of the wordplay words to form the answer. The wordplay words to shuffle (the anagram fodder) can be word or phrase directly from the clue, or it could be indirect and cued by some words or phrase in the clue. 
+ **STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “A PORT AUTHORITY” is the definition. Because “IN POOL” is not likely to be a definition.
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 9 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since it’s an Anagram type puzzle, we will try to find the anagram fodder. We know that “A PORT AUTHORITY” is the definition and “REPRESENTED” is the indicator, then we probably should find the anagram fodder in the rest of the sentence. The clue tells us to *re-present* “IN POOLE HE”.
+1. We will see if there is a word or phrase in the clue, that is 9 letters long, so we can rearrange the letters and get the answer. The rest of the sentence, “IN POOLE HE” happens to be 9 letters long. 
+“IN POOLE HE” contains the letters “I N P O O L E H E”. We know that the definition is “A PORT AUTHORITY”. Since it’s a cryptic crossword puzzle, the answers are usually uncommon words. Then if we look at the letters, we see that we can rearrange it to “OENOPHILE”.
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “OENOPHILE” is indeed one word with 9 letters.  SECOND, The word “OENOPHILE” is a meaningful word and fits the definition “A PORT AUTHORITY”. 
+So the answer is **OENOPHILE**
+
+
+**Clue**: Fan smashing bottles left (9)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We can guess that the clue tells us that “SMASHING” *bottles(contains)* “LEFT”. The word “BOTTLES” suggests that this puzzle is a Sandwich type puzzle. That means we need to find two sets of wordplay words, and we will split one wordplay word and stuff the other wordplay word inside of it to form the answer. 
+**STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “FAN” is the definition.
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 9 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since it’s a Sandwich type puzzle, we will first find the two sets of wordplay words. We know that “FAN” is the definition and “BOTTLES” is the indicator. The clue tells us that “SMASHING” *bottles(contains)* “LEFT”.
+It's still not quite clear what the answer can be. Let’s think from another direction: If we think about it:
+1. The answer is synonym of  “FAN” 
+2. The answer is one word with 9 letters
+we would think about the word “SUPPORTER”.
+Now we will see if we can form this answer from the wordplay words. What’s left in the clue are “SMASHING” and “LEFT”. Since it’s a cryptic crossword puzzle, the cueing words are usually taking the uncommon meanings, so we have to be creative. “SMASHING” could cue the word “SUPER” (in British slang)  and “LEFT” could cue the word “PORT” (in nautical terms).
+ The indicator “BOTTLES” suggests that the first wordplay word “encloses” the second. So we probably should split “SUPER” and stuff “PORT” in between, and we will get “SUPPORTER”. 
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “SUPPORTER” is indeed one word with 9 letters.  SECOND, The word “SUPPORTER” is a meaningful word and fits the definition “FAN”. 
+So the answer is **SUPPORTER**
+
+
+**Clue**: Family member put us in the money (6)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We can guess that the clue tells us to *put* “US” *in the* ”MONEY”. The phrase “PUT … IN THE” suggests that this puzzle is a Sandwich type puzzle. That means we need to find two sets of wordplay words, and we will split one wordplay word and stuff the other wordplay word inside to form the answer.
+**STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “FAMILY MEMBER” is the definition.
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 6 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since it’s a Sandwich type puzzle, we will first find the two sets of wordplay words. Since the clue tells us to *put* “US” *in the* ”MONEY”, maybe the first wordplay word is “US” itself. And we just need to find the second wordplay word from “MONEY”.
+It's still not quite clear what the answer can be. Let’s think from another direction: If we think about it:
+1. The answer is synonym of  “FAMILY MEMBER” 
+2. The answer is one word with 6 letters
+3. There are letter “US” in the middle of the answer
+we would think about the word “COUSIN”. And indeed, “COUSIN” is stuffing “US” inside “CO-IN”. And indeed, “COIN” can be cued by “MONEY”. 
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “COUSIN” is indeed one word with 6 letters.  SECOND, The word “COUSIN” is a meaningful word and fits the definition “FAMILY MEMBER”. 
+So the answer is **COUSIN**
+
+
+**Clue**: Reportedly makes pots (4)
+**STEP 1**:
+We will start by identifying the type of the puzzle. The word “REPORTEDLY” suggests that this puzzle is a Homophone type puzzle. That means we need to find a wordplay word, so that the answer fits the enumeration, sounds like the wordplay words, and fits the definition.
+**STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “POTS” is the definition. Because “REPORTEDLY” is not likely the definition. 
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 4 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since it’s a Homophone type puzzle, we need to find the wordplay word that the answer will sound like. Since “POTS” is the definition, and “REPORTEDLY” is the indicator, what’s left in the clue is “MAKES”. 
+From one direction, we will try to see what can we get from the clue “MAKE”
+1. First we see if there are any words that sound like “MAKES” and mean “POTS”. We can’t think of any. 
+2. Then we see if we can find the wordplay word from “MAKES”. 
+A synonym for “MAKES” is “EARNS”. 
+It's still not quite clear what the answer can be. Let’s think from another direction: If we think about it:
+1. The answer is synonym of  “POTS” 
+2. The answer is one word with 4 letters
+3. The answer sounds like “EARNS”
+We may think of the word “URNS”. 
+And indeed,“EARNS”, the synonym of “MAKES”, sounds like “URNS”, the synonym of “POTS”. 
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “URNS” is indeed one word with 4 letters.  SECOND, The word “URNS” is a meaningful word and fits the definition “POTS”. 
+So the answer is **URNS**
+
+
+**Clue**: Parched in the Kalahari desert (4)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We can guess that the clue tells us the answer is *in the* “KALAHARI DESERT”. The word “IN” doesn’t seem like a linkword, so it suggests that this puzzle is a Hidden Word type puzzle. That means the answer we need to find hides inside the concatenation of the words. We just need to concatenate words in the clue, and find the answer that hides inside of them.
+**STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “PARCHED” is the definition. 
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 4 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since “PARCHED” is the definition, and “IN” is the indicator, then we probably should look at the rest of the sentence. Usually the hidden word answer hides at the connection of two consecutive words —- it’s made from the end part of a word and the beginning part of the next word. So we will pay more attention to that. 
+First we will concatenate the rest of the sentence: the clue tells us the answer is *in the* “KALAHARIDESERT”. And we are looking for the word that is:
+1. The synonym of “PARCHED”
+2. One word with 4 letters long: So we will just scan the concatenate string with a ‘sliding window’ of 4 letters. (“KALA”, “ALAH”, LAHA”, ……)
+3. Likely to hide at the connection place of two words.
+We see that “ARID” in “KALAH*ARID*ESERT” stands out. And indeed, “ARID” is a synonym of “PARCHED”
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “ARID” is indeed one word with 4 letters.  SECOND, The word “ARID” is a meaningful word and fits the definition “PARCHED”. 
+So the answer is **ARID**
+
+
+**Clue**: Odd bits of culture such as this (4)
+**STEP 1**:
+We will start by identifying the type of the puzzle. The word “ODD” suggests that this puzzle is a Letter Manipulation - Concatenation type puzzle. That means the answer we need to find hides inside the concatenation of some letters. Since the indicator here is “ODD”, we will take all the odd letters to concatenate, and then look if there are words hiding inside the concatenated string.
+**STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “SUCH AS THIS” is the definition. Because “ODD BITS” is not likely to be a definition. 
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 4 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since “SUCH AS THIS” is the definition, and “ODD" is the indicator, then we probably should look at the rest of the sentence. The clues says, we should take the “ODD BITS OF *CULTURE*”, so we will try to take the odd letters of culture, “C L U E”, and concatenate it —- “CLUE”. 
+It is already a word of 4 letters. 
+And indeed, “CLUE” fits the definition “SUCH AS THIS”, because “THIS” in “SUCH AS THIS” is referring to the clue itself, this is a clue. It is a bit tricky, but it makes perfect sense. 
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “CLUE” is indeed one word with 4 letters.  SECOND, The word “CLUE” is a meaningful word and fits the definition “SUCH AS THIS”. 
+So the answer is **CLUE**
+
+
+
+
+**Clue**: Get employed right away in Surrey town (6) 
+**STEP 1**:
+We will start by identifying the type of the puzzle. We can guess that the clue tells us to *get* “EMPLOYED” “RIGHT” *away*. The word “GET … AWAY” suggests that this puzzle is a Letter Manipulation - Deletion type puzzle. That means we are deleting something from the wordplay word. So we need to find the wordplay word, and find what should be deleted from the wordplay word. 
+**STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “SURREY TOWN” is the definition. 
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 6 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since “SURREY TOWN” is the definition, and “GET … AWAY" is the indicator, then we probably should look at the rest of the sentence. The clue tells us to *get* “EMPLOYED” “RIGHT” *away*.
+It's still not quite clear what the answer can be. Let’s think from another direction: If we think about it:
+1. The answer is a  “SURREY TOWN” 
+2. The answer is one word with 6 letters
+Then we can think of the town “WOKING”. Now we look back, indeed, “EMPLOYED” can cue “WORKING” and if we take the “R” away from “WORKING”, we get “WOKING”. And then, indeed, “RIGHT” in the clue can cue the letter “R” (abbreviation). 
+So we get “WORKING” from “EMPLOYED”, “R” from “RIGHT”, the indicator “GET … AWAY” suggests that we will take the “R” away from “WORKING” to form “WOKING”. 
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “WOKING” is indeed one word with 6 letters.  SECOND, The word “WOKING” is a meaningful word and fits the definition “SURREY TOWN”. 
+So the answer is **WOKING**
+
+
+**Clue**: Possess a topless dress (3)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We can guess that the clue tells us to *topless* “DRESS”. The word “TOPLESS” suggests that this puzzle is a Letter Manipulation - Deletion type puzzle. That means we are deleting something from the wordplay word. Here topless is likely to suggest that we are taking the initial letters away from some word. So we need to find the wordplay word, and take the initial letters away from it to form the answer. 
+**STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “POSSESS” is the definition. 
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 3 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since “POSSESS” is the definition, and “TOPLESS" is the indicator, then we probably should look at the rest of the sentence. The clue tells us to *topless* “DRESS”. 
+From one direction, the word “DRESS” can cue “GOWN”, and if we take the initial letter “G” away, we get the word “OWN”. 
+It's still not quite clear what the answer can be. Let’s think from another direction: if we think about it: 
+1. The answer is synonym of  “POSSESS” 
+2. The answer is one word with 3 letters
+We can think of the word “OWN”. And indeed, the word “OWN” can be formed from “GOWN”, and “GOWN” is a type of dress. 
+
+
+**Clue**: Knocked back beer like a king (5)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We can guess that the clue tells us to *knock back* “BEER”. The word “KNOCK BACK” suggests that this puzzle is a Reversal type puzzle. That means we will first find the wordplay word to reverse, and then we will reverse the letter of it to get the answer. 
+**STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “LIKE A KING” is the definition. Since “KNOCK BACK” doesn’t seem like a definition. 
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 5 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since “LIKE A KING” is the definition, and “KNOCK BACK" is the indicator, then we probably should look at the rest of the sentence. 
+From one direction, we see that the clue tells us to *knock back* “BEER”:
+1. Since “BEER” has only 4 letters, and the answer is 5 letters long, we cannot get the answer by reversing the letters of “BEER”.
+2. So we will try to find a wordplay word from “BEER” that is 5 letters long 
+It's still not quite clear what the answer can be. Let’s think from another direction: If we think about it:
+1. The answer is  “LIKE A KING” 
+2. The answer is one word with 5 letters
+Then we can think of the town “REGAL”. And indeed, if we reverse “REGAL”, we get “LAGER”, which is a kind of “BEER”.
+So we can conclude that, the word “BEER” cue “LAGER”, and if we reverse “LAGER” we get “REGAL”. 
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “REGAL” is indeed one word with 5 letters.  SECOND, The word “REGAL” is a meaningful word and fits the definition “LIKE A KING”. 
+So the answer is **REGAL**
+
+
+**Clue**: Put out by mounting objections (4)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We can guess that the clue tells us to “mount” “OBJECTIONS”. Since this is a down clue, the word “MOUNTING” suggests that this puzzle is a Reversal type puzzle. That means we will first find the wordplay word to reverse, and then we will reverse the letter of it to get the answer.
+**STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “PUT OUT” is the definition. 
+We noticed that there is a commonly used linkword: “BY”. The linkword “BY” suggests that the answer, a synonym to the definition, can be formed from the rest of the clue. 
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 4 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since “PUT OUT”” is the definition, “BY” is the link word, and “MOUNTING" is the indicator, then we probably should look at the rest of the sentence. The clue tells us to “mount” “OBJECTIONS”. 
+From one direction, we will try to get the wordplay word to reverse, given that “OBJECTIONS” is what’s left in the sentence:
+1. Since “OBJECTIONS” has only 10  letters, and the answer is 4 letters long, we cannot get the answer by reversing the letters of “OBJECTIONS”.
+3. So we will try to find a wordplay word from “OBJECTIONS” that is 4 letters long 
+It's still not quite clear what the answer can be. Let’s think from another direction: If we think about it:
+1. The answer is  synonym of “PUT OUT” 
+2. The answer is one word with 4 letters
+Combining the two directions, we can think of the word “STUB”. And indeed, if we reverse “STUB”, we get “BUTS”, which fits the definition “OBJECTIONS”.
+So we can conclude that, the word “OBJECTIONS” cue “BUTS”, and if we reverse “BUTS” we get “STUB”. 
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “STUB” is indeed one word with 4 letters.  SECOND, The word “STUB” is a meaningful word and fits the definition “PUT OUT”. 
+So the answer is **STUB**
+
+
+**Clue**: Axed when West’s moved (4)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We can guess that the clue tells us “WHEN WEST’S” *moved*. The word “MOVED” suggests that this puzzle is a Letter Manipulation - Moving type puzzle. That means we will first find the wordplay word, and the letter to switch, then we will switch the letter in the wordplay word to get the answer. In particular, the word “MOVED” suggests that after we found the wordplay word, and the letter to switch, we are moving the letter to switch in the wordplay word. 
+**STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “AXED” is the definition. 
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 4 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since “AXED”” is the definition, and “MOVED" is the indicator, then we probably should look at the rest of the sentence. The clue tells us “WHEN WEST’S” *moved*, so we can see that 
+1. “WHEN” is the wordplay word we want to switch the letters of. 
+2. “WEST’S MOVED” suggests that we are moving the letter “W”, since “WEST” cues “W” (abbreviation). 
+From another direction: if we think about it:
+1. The answer is something related to “AXED” 
+2. The answer is one word with 4 letters
+3. We are moving the “W” in “When”.
+Then we can think of the word “HEWN”. Which fits the definition of “AXED”. 
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “HEWN” is indeed one word with 4 letters.  SECOND, The word “HEWN” is a meaningful word and fits the definition “AXED”. 
+So the answer is **HEWN**
+
+
+
+
+**Clue**: Heads of the several amalgamated Russian states (5)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We can guess that the clue tells us to look at the *head of* “THE SEVERAL AMALGAMATED RUSSIAN STATES”. The word “HEADS” suggests that this puzzle is a Letter Manipulation - Concatenation type puzzle. That means we will concatenate the initials of the wordplay words, and find our answers inside of it. 
+**STEP 2**:
+We will then find the definition. Although the definition is almost always either at the beginning or end of the clue sentence or phrase, we see that the clue is a short sentence that is a clear description of something. So this may be a “&lit” typed puzzle, and the definition will overlap with the wordplay, in this case the definition can be the entire sentence: “HEADS OF THE SEVERAL AMALGAMATED RUSSIAN STATES”. 
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 5 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: We know “HEADS OF THE SEVERAL AMALGAMATED RUSSIAN STATES”” is the definition, and “HEADS" is the indicator. But since it's a “&lit” type of problem, the definition will overlap with the wordplay. 
+Since the clue tells us to look at the *head of* “THE SEVERAL AMALGAMATED RUSSIAN STATES”, we will take the initials of it, and we get “TSARS”
+And indeed, “TSARS” fits the definition “HEADS OF THE SEVERAL AMALGAMATED RUSSIAN STATES”
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “TSARS” is indeed one word with 5 letters.  SECOND, The word “TSARS” is a meaningful word and fits the definition “HEADS OF THE SEVERAL AMALGAMATED RUSSIAN STATES”. 
+So the answer is **TSARS**
+
+
+**Clue**: Sort of roll, A-E etc? (9)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We can guess that the clue tells us it is the *sort of* “ROLL A E ETC”. The word “SORT” suggests that this puzzle is an Anagram type puzzle. That means we need to shuffle the letters of the wordplay words to form the answer. The wordplay words to shuffle (the anagram fodder) can be word or phrase directly from the clue, or it could be indirect and cued by some words or phrase in the clue. 
+**STEP 2**:
+We will then find the definition. Although the definition is almost always either at the beginning or end of the clue sentence or phrase, we see that the clue is a short sentence that is a clear description of something. So this may be a “&lit” typed puzzle, and the definition will overlap with the wordplay, in this case, the definition is the entire sentence: “SORT OF ROLL, A-E ETC?”.
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 9 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: We know “SORT OF ROLL, A-E ETC?”” is the definition, and “SORT" is the indicator. But since it's a “&lit” type of problem, the definition will overlap with the wordplay. The clue tells us it is the *sort of* “ROLL A E ETC”. 
+1. We will see if there is a word or phrase in the clue, that is 9 letters long, so we can rearrange the letters and get the answer. “ROLL A E ETC” happens to be 9 letters long.
+“ROLL A E ETC” contains the letters “R O L L A E E T C”. We know that the definition is “SORT OF ROLL, A-E ETC?”. If we look at the letters, we see that we can rearrange it to “ELECTORAL”.
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “ELECTORAL” is indeed one word with 9 letters.  SECOND, The word “ELECTORAL” is a meaningful word and fits the definition “SORT OF ROLL, A-E ETC?”. 
+So the answer is **ELECTORAL**
+
+
+**Clue**: Shoots game (5)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We see that the clue can be separated into two reasonable descriptions of something, especially here there are only two words in the clue, which is a strong indicator that this is a Double Definition type. So I assume that this is a Double Definition type puzzle. That means we need to find the answer that simultaneously satisfies both definition, and the enumeration field. 
+**STEP 2**:
+We will then find the definition. Although the definition is almost always either at the beginning or end of the clue sentence or phrase, we see that the clue can be separated into two reasonable descriptions of something. And also consider that this puzzle only has two words, so this may be a Double definition typed puzzle, and the two definitions are: Definition 1 is “SHOOTS”, definition 2 is “GAME”. 
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 5 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: We know that the answer need to satisfy three constraints:
+1. It must fit definition 1: “SHOOTS”
+2. It must fit definition 2: “GAME”. 
+3. It must be one word that is 5 letters long. 
+So we can think of the word “DARTS”. Because “SHOOTS” can cue the word “DARTS” and “GAME” can also cue the word “DARTS”. 
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “DARTS” is indeed one word with 5 letters.  SECOND, The word “DARTS” is a meaningful word and fits the definition “SHOOTS” and “GAME”. 
+So the answer is **DARTS**
+
+
+
+
+**Clue**: Pools entries making one a rich man (5)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We see that the clue can be separated into two reasonable descriptions of something, so I assume that this is a Double Definition type puzzle. That means we need to find the answer that simultaneously satisfies both definition, and the enumeration field. 
+**STEP 2**:
+We will then find the definition. Although the definition is almost always either at the beginning or end of the clue sentence or phrase, we see that the clue can be separated into two reasonable descriptions of something. So this may be a Double definition typed puzzle, and the two definitions are: Definition 1 is “POOLS ENTRIES ”, definition 2 is “A RICH MAN”. We can see that here “MAKING ONE” is a link word that separates this sentence into two parts. 
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 5 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: We know that the answer need to satisfy three constraints:
+4. It must fit definition 1: “POOLS ENTRIES”
+5. It must fit definition 2: “A RICH MAN”. 
+6. It must be one word that is 5 letters long. 
+So we can think of the word “DIVES”. Because “POOLS ENTRIES” can cue the word “DIVES” and “A RICH MAN” can also cue the word “DIVES”. 
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “DIVES” is indeed one word with 5 letters.  SECOND, The word “DIVES” is a meaningful word and fits the definition “POOLS ENTRIES” and “A RICH MAN”. 
+So the answer is **DIVES**
+
+
+**Clue**: Glance at the fixtures - nothing much on (8)
+**STEP 1**: 
+We will start by identifying the type of the puzzle. We can guess that clue tells us “GLANCE” *at the* “FIXTURES”. We cannot find any indicators for this clue, we assume that it is a Charade (additive) type of puzzle. That means we need to find wordplay words from words or phrases in the clue, and concatenate the wordplay words together. 
+**STEP 2**: 
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we would assume that “NOTHING MUCH ON” is the definition, since “GLANCE AT THE FIXTURES” doesn’t look like a definition. 
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 8 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since it’s a Charade type puzzle, we will try to find the wordplay words that each phrase in the puzzle cues. The clue tells us “GLANCE” *at the* “FIXTURES”. Maybe the wordplay words are “GLANCE” and “FIXTURES”. 
+“GLANCE” can cue “SCAN”. 
+It's still not quite clear what the answer can be. Let’s think from another direction: If we think about it:
+1. The answer is synonym of  “NOTHING MUCH ON” 
+2. The answer is one word with 8 letters
+3. The word starts with “SCAN”
+we would think about the word “SCANTIES”. And indeed, “FIXTURES” can reasonably cue “TIES”. If we put the wordplay words “SCAN” and “TIES” together, we will get the word “SCANTIES”.
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “SCANTIES” is indeed one word with 8 letters. SECOND, the word “SCANTIES” is a meaningful word and fits the definition “NOTHING MUCH ON”. 
+So the answer is **SCANTIES**
+
+
+
+
+**Clue**: Plain nan as starter in separate quarters (6, 4)
+**STEP 1**: 
+We will start by identifying the type of the puzzle. We can guess that the clue tells us “PLAIN NAN” *as starter*. We cannot find any indicators for this clue, we assume that it is a Charade (additive) type of puzzle. That means we need to find wordplay words from words or phrases in the clue, and concatenate the wordplay words together. 
+**STEP 2**: 
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we would assume that “SEPARATE QUARTERS” is the definition, since “PLAIN NAN” doesn’t look like a definition. 
+We noticed that there is a commonly used linkword: “IN”.
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be two words, 6 and 4 letters long each, in total of 10 letters. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since it’s a Charade type puzzle, we will try to find the wordplay words that each phrase in the puzzle cues. The clue tells us “PLAIN NAN” *as starter*. So maybe “PLAIN” and “NAN” are the two wordplay words. 
+Also, we see that the clue tells us “NAN” *as starter*, maybe it indicates that the word “NAN” cues should be placed in the first place. 
+We know that the first word is 6 letters long. “NAN” can cue “GRANNY”, which is also 6 letters long. We know that the second word is 4 letters long, “PLAIN” can cue “FLAT”, which is also 4 letters long. 
+It's still not quite clear what the answer can be. Let’s think from another direction: If we think about it:
+1. The answer is synonym of  “SEPARATE QUARTERS” 
+2. The answer is two words, 6 and 4 letters long each
+3. The word starts with “GRANNY”
+we would think about the word “GRANNY FLAT”. If we put the wordplay words “GRANNY” and “FLAT” together, we will get the word “GRANNY FLAT”.
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “GRANNY FLAT” is indeed two words, 6 and 4 letters long each. SECOND, the word “GRANNY FLAT” is a meaningful word and fits the definition “SEPARATE QUARTERS”. 
+So the answer is **GRANNY FLAT**
+
+
+**Clue**: Part of Madeira one might sail through (5, 2, 4)
+**STEP 1**: 
+We will start by identifying the type of the puzzle. We cannot find any indicators for this clue, we assume that it is a Cryptic Definition type of puzzle. We will plan what to do: we need to find two ideas given in the clue, and find words that connect the two ideas found in the clue. 
+**STEP 2**: 
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we would assume that “ONE MIGHT SAIL THROUGH” is the definition.
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be three words, 5, 2 and 4 letters long each, in total of 11 letters.
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1:
+1. “PART OF MADEIRA” could mean something that’s related to Madeira. 
+2. “ONE MIGHT SAIL THROUGH” means something that’s easy. 
+Then we will find words that can relate these two ideas together. If we think about something that’s related to Madeira, we could think about “Madeira cake”. If we think about cake and something that’s easy, and that is three words long, we would think about the phrase “PIECE OF CAKE”. 
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “PIECE OF CAKE” is indeed three words, 5, 2 and 4 letters long each. SECOND, the word “PIECE OF CAKE” is a meaningful word and fits the definition “ONE MIGHT SAIL THROUGH”. 
+So the answer is **PIECE OF CAKE**
+
+
+**Clue**: Roman marbles lost (3, 6, 6)
+**STEP 1**: 
+We will start by identifying the type of the puzzle. We cannot find any indicators for this clue, we assume that it is a Cryptic Definition type of puzzle. That means we need to find two ideas given in the clue, and find words that connect the two ideas found in the clue. 
+**STEP 2**: 
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we would assume that “MARBLES LOST” is the definition.
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be three words, 3, 6 and 6 letters long each, in total of 15 letters.
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1:
+1. “ROMAN” could mean something that’s related to Rome. 
+2. “MARBLES LOST” means something that’s out of sound mind. 
+Then we will find words that can relate these two ideas together. If we think about something that’s related to Rome, we could think about their language Latin. If we think about Latin and something that’s out of sound mind, and that the answer is 3 words long, we would think about the phrase “NON COMPOS MENTIS”. 
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “NON COMPOS MENTIS” is indeed three words, 3, 6 and 6 letters long each. SECOND, the word “NON COMPOS MENTIS” is a meaningful word and fits the definition “MARBLES LOST”. 
+So the answer is **NON COMPOS MENTIS**
+
+
+**Clue**: Lettuce constituent of salad, primarily (3)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We can guess that the clue tells us “CONSTITUENT OF SALAD”, *primarily*. The word “PRIMARILY” suggests that this puzzle is a Letter Manipulation - Concatenation type puzzle. That means we will concatenate the initials of the wordplay words, and find our answers inside of it. 
+**STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “LETTUCE” is the definition.
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 3 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: We know “LETTUCE” is the definition, and “PRIMARILY" is the indicator, then we probably should look at the rest of the sentence. Consider the answer is 3 letters long, and the clue tells us “CONSTITUENT OF SALAD”, *primarily*, we will take the initials of it, and we get “COS”
+And indeed, “COS” fits the definition “LETTUCE”, it is a lettuce salad ingredient.
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “COS” is indeed one word with 3 letters.  SECOND, The word “COS” is a meaningful word and fits the definition “LETTUCE”. 
+So the answer is **COS**
+
+
+**Clue**: Endless industrial action in a Scandinavian port (4)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We can guess that the clue tells us it’s *endless* “INDUSTRIAL ACTION”. The word “ENDLESS” suggests that this puzzle is a Letter Manipulation - Deletion type puzzle. That means we need to figure out what to do. “ENDLESS” could mean that we need to remove the first and last letter of the wordplay word in order to form the answer. Since the first and last letter are the *ends* of the wordplay word. **STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “A SCANDINAVIAN PORT” is the definition.
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 4 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1:
+First, we need to find the wordplay word. Consider “A SCANDINAVIAN PORT” is the definition and “ENDLESS” is the indicator. “IN” is probably a linkword. Then we probably should look at the rest of the sentence. The clue tells us it’s *endless* “INDUSTRIAL ACTION”. 
+If we take the first and last letter from “INDUSTRIAL ACTION”, it doesn't make sense. So it must be some word that “INDUSTRIAL ACTION” cues. 
+It's still not quite clear what the answer can be. Let’s think from another direction: If we think about it:
+1. The answer is a  “A SCANDINAVIAN PORT” 
+2. The answer is one word with 4 letters
+Then we can think of the word “OSLO”. Then if we associate it with *endless* “INDUSTRIAL ACTION”, we can see that “INDUSTRIAL ACTION” can cue “GO-SLOW”, and if we remove the first and last letter, we will get “OSLO”, which is “A SCANDINAVIAN PORT”
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “OSLO” is indeed one word with 4 letters.  SECOND, The word “OSLO” is a meaningful word and fits the definition “A SCANDINAVIAN PORT”. 
+So the answer is **OSLO**
+
+
+**Clue**: What’s tedious and instils such listlessness? Every second of this (5)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We can guess that the clue tells us it’s *every second of* “WHAT’S TEDIOUS AND INSTILS SUCH LISTLESSNESS”. The phrase “EVERY SECOND OF THIS” suggests that this puzzle is a Letter Manipulation - Concatenation type puzzle. That means we need to figure out what to do. “EVERY SECOND OF THIS” could mean that we need to take the second letter of each word in the wordplay word in order to form the answer. “THIS” might refer to the clue itself. 
+**STEP 2**:
+We will then find the definition. Although the definition is almost always either at the beginning or end of the clue sentence or phrase, we see that the clue is a short sentence that is a clear description of something. So this may be a “&lit” typed puzzle, and the definition will overlap with the wordplay, in this case, the definition is the first sentence:  “WHAT’S TEDIOUS AND INSTILS SUCH LISTLESSNESS?”.
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 5 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: We know “WHAT’S TEDIOUS AND INSTILS SUCH LISTLESSNESS?” is the definition, and “EVERY SECOND OF THIS”  is the indicator. But since it's a “&lit” type of problem, the definition will overlap with the wordplay. The clue tells us it’s *every second of* “WHAT’S TEDIOUS AND INSTILS SUCH LISTLESSNESS”. we will take the second letters of each word in it, and we get “HENNUI”. This word is 6 letters long and it’s not meaningful. However, “ENNUI” fits the definition “WHAT’S TEDIOUS AND INSTILS SUCH LISTLESSNESS?”, and it’s 5 letters long. And “ENNUI” is *every second of* “TEDIOUS AND INSTILS SUCH LISTLESSNESS” (without the word “WHAT’S” in the clue). 
+So “ENNUI” could be the answer. 
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “ENNUI” is indeed one word with 5 letters.  SECOND, The word “ENNUI” is a meaningful word and fits the definition “WHAT’S TEDIOUS AND INSTILS SUCH LISTLESSNESS?”. 
+So the answer is **ENNUI**
+
+
+**Clue**: Robin’s slayer uses extremely sharp weapon (7)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We can guess that the clue tells us to *uses* *extreme* of “SHARP” “WEAPON”. The word “EXTREMELY” suggests that this puzzle is a Letter Manipulation - Concatenation type puzzle. That means we need to figure out what to do. “EXTREMELY” could mean that we need to take the first and last letter of the wordplay word in order to form the answer. Since the first and last letter are the *extremes* of the wordplay word. **STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “ROBIN’S SLAYER” is the definition.
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 7 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1:
+First, we need to find the wordplay word. Consider “ROBIN’S SLAYER” is the definition and “EXTREMELY” is the indicator. “USES” is probably a linkword. Then we probably should look at the rest of the sentence. The clue tells us to *uses* *extreme* of “SHARP” “WEAPON”. 
+If we take the first and last letter from “SHARP”, We will get “SP” 
+It's still not quite clear what the answer can be. Let’s think from another direction: If we think about it:
+1. The answer is a  “ROBIN’S SLAYER” 
+2. The answer is one word with 7 letters
+3. The answer could start with “SP”
+Then we can think of the word “SPARROW”. Which is adding “SP” to “ARROW”. Then if we associate it with “WEAPON”, we can see that “WEAPON” can cue “ARROW”. And if we combine “SP” and “ARROW” together, we get “SPARROW”, which is a “ROBIN’S SLAYER”
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “SPARROW” is indeed one word with 7 letters.  SECOND, The word “SPARROW” is a meaningful word and fits the definition “ROBIN’S SLAYER”. 
+So the answer is **SPARROW**
+
+
+
+
+**Clue**: It’s crazy changing what comes before pi (7)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We can guess that the clue tells us to *change* “WHAT COMES BEFORE PI”. The word “CHANGING” suggests that this puzzle is an Anagram type puzzle. That means we need to shuffle the letters of the wordplay words to form the answer. The wordplay words to shuffle (the anagram fodder) can be word or phrase directly from the clue, or it could be indirect and cued by some words or phrase in the clue. 
+**STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “IT’S CRAZY” is the definition.
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 7 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since it’s an Anagram type puzzle, we will try to find the anagram fodder. We know that “IT’S CRAZY” is the definition and “CHANGING” is the indicator, then we probably should find the anagram fodder in the rest of the sentence. The clue tells us to *change* “WHAT COMES BEFORE PI”.
+1. We will see if there is a word or phrase in the clue, that is 7 letters long, so we can rearrange the letters and get the answer. There seems to be no phrase that is 7 letters for us to shuffle. 
+2. Then we will consider the possibility that the wordplay word is cued by the clue. “WHAT COMES BEFORE PI” can cue “OMICRON” in Greek Alphabet. “OMICRON” happens to be 7 letters. 
+“OMICRON” contains the letters “O M I C R O N”. We know that the definition is “IT’S CRAZY”, so if we take a scan of the letters, we see that the letters can form the word “MORONIC”, which fits the definition “IT’S CRAZY”. 
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “MORONIC” is indeed one word with 7 letters.  SECOND, The word “MORONIC” is a meaningful word and fits the definition “IT’S CRAZY”. 
+So the answer is **MORONIC**
+
+
+
+
+**Clue**: Farewell horrid lepidoptera - none seen for ages (6-3)
+**STEP 1**:
+We will start by identifying the type of the puzzle. 
+We can guess that the clue tells us to *horrid* “LEPIDOPTERA”. The word “HORRID” suggests that this puzzle is an Anagram type puzzle. That means we need to shuffle the letters of the wordplay words to form the answer. The wordplay words to shuffle (the anagram fodder) can be word or phrase directly from the clue, or it could be indirect and cued by some words or phrase in the clue. 
+We can guess that the clue tells us “NONE” is *seen for (instead of)* “AGES”. The phrase “NONE SEEN FOR AGES” suggests that this puzzle is a Letter Manipulation - Replacing Letter type puzzle. That means we will first find the wordplay word, and the letter to switch, then we will switch the letter in the wordplay word to get the answer. In particular, the phrase “X SEEN FOR X” suggests that after we found the wordplay word, and the letter to switch, we are replacing the letter to switch in the wordplay word. 
+So there are two types of puzzles in this clue: Anagram and Letter Manipulation. So our plan is to first find the anagram fodder (the wordplay word), and then find the letter to switch, and then perform anagram to get the answer. 
+**STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “FAREWELL” is the definition.
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 6 letters and 3 letters connected by “-”. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: 
+First of all, since there are two types of puzzles in the clue, we might want to start with a bit of imagination. Let’s think from another direction: If we think about it:
+1. The answer is synonym of  “FAREWELL” 
+2. The answer is one word that is 6 letters and 3 letters connected by “-”.
+We can think of the phrase “TOODLE-PIP”, which is a British humorous term for “FAREWELL”.
+Now let’s look from the original direction (by following the plan we made in STEP 1): 
+Since it’s an Anagram type puzzle, we will try to find the anagram fodder. We know that “FAREWELL” is the definition and “HORRID” is the indicator for Anagram, then we probably should find the anagram fodder in the rest of the sentence. The clue tells us to *horrid* “LEPIDOPTERA”. So we assume that “LEPIDOPTERA” is the word we want to anagram. 
+Since “LEPIDOPTERA” is the word we want to anagram, and “X SEEN FOR X" is the indicator for Letter Manipulation, then we probably should look at the rest of the sentence. The clue tells us “NONE” is *seen for (instead of)* “AGES”, so we can see that 
+1. “NONE” usually cues “O” in cryptic crosswords.  
+2. We don’t see “AGES” in “LEPIDOPTERA”, but we see “ERA” in “LEPIDOPTERA”. So it makes sense now: “AGES” cues “ERA”. 
+Then we can conclude that we are replacing “ERA” to “O” in “LEPIDOPTERA”, so we have letters “L E P I D O P T O”.
+We know that the definition is “FAREWELL”, so if we take a scan of the letters, we see that the letters can form the word “TOODLE-PIP”, which fits the definition “FAREWELL”. 
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “TOODLE-PIP” is indeed one word that is 6 letters and 3 letters connected by “-”.  SECOND, The word “TOODLE-PIP” is a meaningful word and fits the definition “FAREWELL”. 
+So the answer is **TOODLE-PIP**
+
+
+
+
+**Clue**: Aspiring to achieve first in Wimbledon, double-faulted (5-2)
+**STEP 1**:
+We will start by identifying the type of the puzzle. 
+We can guess that the clue tells us “DOUBLE” *(is) faulted*. The word “FAULTED” suggests that this puzzle is an Anagram type puzzle. That means we need to shuffle the letters of the wordplay words to form the answer. The wordplay words to shuffle (the anagram fodder) can be word or phrase directly from the clue, or it could be indirect and cued by some words or phrase in the clue. 
+We can guess that the clue tells us *first in* “WIMBLEDON”. The phrase “FIRST IN” suggests that this puzzle is a Letter Manipulation - Concatenation puzzle. That means the wordplay word contains a letter from the initial letter of a word in the clue. “IN” here is probably a link word. 
+So there are two types of puzzles in this clue: Anagram and Letter Manipulation. So our plan is to first find the anagram fodder (the wordplay word), and then find the initial letter, and then since it’s an anagram type puzzle, we are shuffling letters, so we probably should add the initial letters to the wordplay letters to get all the letters to shuffle, and then perform anagram to get the answer. 
+**STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “ASPIRING TO ACHIEVE” is the definition.
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 5 letters and 2 letters connected by “-”. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: 
+Since it’s an Anagram type puzzle, we will try to find the anagram fodder. We know that “ASPIRING TO ACHIEVE” is the definition and “FAULTED” is the indicator for Anagram, then we probably should find the anagram fodder in the rest of the sentence. The clue tells us “DOUBLE” *(is) faulted*. So we assume that “DOUBLE” is the word we want to anagram. 
+Since “DOUBLE” is the word we want to anagram, and “FIRST IN" is the indicator for Letter Manipulation - Concatenation, then we probably should look at the rest of the sentence. The clue tells us *first in* “WIMBLEDON”, so we probably should take the initial letter “W” of “WIMBLEDON”. 
+Then we can conclude that we are adding “W” to “DOUBLE”, so we have letters “W D O U B L E”.
+It's still not quite clear what the answer can be. Let’s think from another direction: If we think about it:
+1. The answer is synonym of  “ASPIRING TO ACHIEVE” 
+2. The answer is one word that is 5 letters and 2 letters connected by “-”
+3. We have letters “W D O U B L E” to perform anagram.
+we would think about the word “WOULD-BE”. which fits the definition “ASPIRING TO ACHIEVE”. 
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “WOULD-BE” is indeed one word that is 5 letters and 2 letters connected by “-”.  SECOND, The word “WOULD-BE” is a meaningful word and fits the definition “ASPIRING TO ACHIEVE”. 
+So the answer is **WOULD-BE**
+
+
+
+
+**Clue**: Neglectful having left off dicky bow (9)
+**STEP 1**:
+We will start by identifying the type of the puzzle. 
+We can guess that the clue tells us “NEGLECTFUL HAVING LEFT OFF ” *(is) dicky*. The word “DICKY” suggests that this puzzle is an Anagram type puzzle. That means we need to shuffle the letters of the wordplay words to form the answer. The wordplay words to shuffle (the anagram fodder) can be word or phrase directly from the clue, or it could be indirect and cued by some words or phrase in the clue. 
+We can guess that the clue tells us *having* “LEFT” *off*. The phrase “HAVING LEFT OFF” (or “HAVING X OFF”) suggests that this puzzle is a Letter Manipulation - Deletion type puzzle. That means we are deleting something from the wordplay word. 
+So there are two types of puzzles in this clue: Anagram and Letter Manipulation. So our plan is to first find the anagram fodder (the wordplay word), and then find the letter to delete, delete the letter from all the letters to shuffle, and then perform anagram to get the answer. 
+**STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “BOW” is the definition.
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 9 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: 
+Since it’s an Anagram type puzzle, we will try to find the anagram fodder. We know that “BOW” is the definition and “DICKY” is the indicator for Anagram, then we probably should find the anagram fodder in the rest of the sentence. The clue tells us “NEGLECTFUL HAVING LEFT OFF ” *(is) dicky*. However, we know that “HAVING LEFT OFF” is part of the Letter Manipulation puzzle, so we assume that the clue tells us “NEGLECTFUL (HAVING LEFT OFF) ” *(is) dicky*. So “NEGLECTFUL” is the word we want to anagram. 
+Since “NEGLECTFUL” is the word we want to anagram, and “HAVING X OFF" is the indicator for Letter Manipulation - Deletion, then we probably should look at the rest of the sentence. The clue tells us *having* “LEFT” *off*: “LEFT” often cues “L” in cryptic crosswords, so this is probably suggesting us to remove the letter “L” from the wordplay letters. 
+Then we can conclude that we are removing one “L” from “NEGLECTFUL”, so we have letters “N E G E C T F U L”, which is also 9 letters, so it suits the enumeration. 
+It's still not quite clear what the answer can be. Let’s think from another direction: If we think about it:
+1. The answer is synonym of  “BOW” 
+2. The answer is one word 9 letters long
+3. We have letters “N E G E C T F U L” to perform anagram.
+we would think about the word “GENUFLECT”. which fits the definition “BOW”. 
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “GENUFLECT” is indeed one word 9 letters long.  SECOND, The word “GENUFLECT” is a meaningful word and fits the definition “BOW”. 
+So the answer is **GENUFLECT**
+
+
+**Clue**: Nothing stops Chelsea playing tie (8)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We can guess that the clue tells us that “NOTHING” *stops (in the middle of)* “CHELSEA”. The word “STOPS” suggests that this puzzle is a Sandwich type puzzle. That means we need to find two sets of wordplay words, and we will split one wordplay word and stuff the other wordplay word inside of it to form the answer. 
+Also the word “PLAYING” suggests that this puzzle is an Anagram type puzzle. That means we need to shuffle the letters of the wordplay words to form the answer. The wordplay words to shuffle (the anagram fodder) can be word or phrase directly from the clue, or it could be indirect and cued by some words or phrase in the clue.
+So there are two types of puzzles in this clue: Sandwich and Anagram. So our plan is to first find the pair of wordplay words to perform a sandwich operation, and then we take the sandwiched wordplay word, and perform anagram to get the answer. 
+**STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “TIE” is the definition.
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 8 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: 
+Since it’s a Sandwich type puzzle, we will first find the two sets of wordplay words. We know that “TIE” is the definition and “STOPS” is the indicator. The clue tells us that “NOTHING” *stops (in the middle of)* “CHELSEA”. We know that “NOTHING” usually cues “O” in cryptic crosswords, so let’s try to stuff “O” in “CHELSEA”, and we will have letters “C H E O L S E A”.
+Now we will perform anagram on these letters: 
+It's still not quite clear what the answer can be. Let’s think from another direction: If we think about it:
+1. The answer is synonym of  “TIE” 
+2. The answer is one word 8 letters long
+3. We have letters “C H E O L S E A” to perform anagram.
+we would think about the word “SHOELACE”. which fits the definition “TIE”. 
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “SHOELACE” is indeed one word with 8 letters.  SECOND, The word “SHOELACE” is a meaningful word and fits the definition “TIE”. 
+So the answer is **SHOELACE**
+
+
+
+
+**Clue**: Rather restricting the setter? I don’t care! (8)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We can guess that the clue tells us that we are *restricting* “THE SETTER” (in) “I DON’T CARE”. The word “RESTRICTING” suggests that this puzzle is a Sandwich type puzzle. That means we need to find two sets of wordplay words, and we will split one wordplay word and stuff the other wordplay word inside of it to form the answer. 
+**STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “RATHER” is the definition.
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 8 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since it’s a Sandwich type puzzle, we will first find the two sets of wordplay words. We know that “RATHER” is the definition and “RESTRICTING” is the indicator. The clue tells us that we are *restricting* “THE SETTER” (in) “I DON’T CARE”.
+First of all, in cryptic crossword terminologies, “SETTER” is the person who creates the puzzles. So when the setter uses the phrase “THE SETTER”, it can cue “ME” as he is referring to himself. 
+It's still not quite clear what the answer can be. Let’s think from another direction: If we think about it:
+1. The answer is synonym of  “RATHER” 
+2. The answer is one word with 8 letters
+3. We are stuffing “ME” into something
+we would think about the word “SOMEWHAT”. Which is stuffing “ME” into “SO WHAT”. And “I DON’T CARE” can reasonably cue “SO WHAT”. 
+So we may conclude that “THE SETTER” cues “ME” and “I DON’T CARE” cues “SO WHAT”. And we stuff “ME” into “SO WHAT” to get “SOMEWHAT”, which fits the definition “RATHER”.
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “SOMEWHAT” is indeed one word with 8 letters.  SECOND, The word “SOMEWHAT” is a meaningful word and fits the definition “RATHER”. 
+So the answer is **SOMEWHAT**
+
+
+**Clue**: Fall in love? On the contrary, wilt (5)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We can guess that the clue tells us that we are putting “FALL” *in* “LOVE”. The word “IN” suggests that this puzzle is a Sandwich type puzzle (“IN” is not a linkword here). That means we need to find two sets of wordplay words, and we will split one wordplay word and stuff the other wordplay word inside of it to form the answer. 
+**STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “WILT” is the definition.
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 5 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since it’s a Sandwich type puzzle, we will first find the two sets of wordplay words. We know that “WILT” is the definition and “IN” is the indicator. The clue tells us that we are putting “FALL” *in* “LOVE”. However, we see that there is a part of the clue we haven’t used yet: “ON THE CONTRARY”. This shows that maybe we should do the reverse, we should put “LOVE” *in* “FALL”. 
+First of all, “FALL” could cue “DROP”. 
+It's still not quite clear what the answer can be. Let’s think from another direction: If we think about it:
+1. The answer is synonym of  “WILT” 
+2. The answer is one word with 5 letters
+3. We are stuffing something into “DROP” to form the answer. 
+we would think about the word “DROOP”. Which is stuffing “O” into “DROP”. And “LOVE” can reasonably cue “O” as in tennis, “LOVE” means zero, and zero cues “O” in cryptic puzzles very often. 
+So we may conclude that “LOVE” cues “O” and “FALL” cues “DROP”. And we stuff “O” into “DROP” to get “DROOP”, which fits the definition “WILT”.
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “DROOP” is indeed one word with 5 letters.  SECOND, The word “DROOP” is a meaningful word and fits the definition “WILT”. 
+So the answer is **DROOP**
+
+
+**Clue**: Composer of lines for Soviet city (8)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We can guess that the clue tells us that “OF” *lines (is inside of)* “FOR SOVIET CITY”. The word “LINES” suggests that this puzzle is a Sandwich type puzzle. “LINES” means something is inside of another, this is an unusual indicator. That means we need to find two sets of wordplay words, and we will split one wordplay word and stuff the other wordplay word inside of it to form the answer. 
+**STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “COMPOSER” is the definition.
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 8 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: 
+Since it’s a Sandwich type puzzle, we will first find the two sets of wordplay words. We know that “COMPOSER” is the definition and “LINES” is the indicator. The clue tells us that “OF” *lines (is inside of)* “FOR SOVIET CITY”. 
+First of all, “SOVIET CITY” could cue “KIEV”, “FOR” could cue “PRO”, and we probably can take “OF” as it is. 
+It's still not quite clear what the answer can be. Let’s think from another direction: If we think about it:
+1. The answer is a “COMPOSER” 
+2. The answer is one word with 8 letters
+3. We are putting “OF” in side “PRO” and “KIEV”
+Then we can think of the composer “PROKOFIEV”. And indeed, we are putting “OF” inside the combined letter “PROKIEV”.
+So we conclude that “SOVIET CITY” cues “KIEV”, “FOR” cues “PRO”, and we put “OF” inside the combined letter “PROKIEV” to form “PROKOFIEV”, which is a “COMPOSER” and contains 8 letters. 
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “PROKOFIEV” is indeed one word with 8 letters.  SECOND, The word “PROKOFIEV” is a meaningful word and fits the definition “COMPOSER”. 
+So the answer is **PROKOFIEV**
+
+
+
+
+**Clue**: Check reported weather forecast perhaps (4)
+**STEP 1**:
+We will start by identifying the type of the puzzle. The word “REPORTED” suggests that this puzzle is a Homophone type puzzle. That means we need to find a wordplay word, so that the answer fits the enumeration, sounds like the wordplay words, and fits the definition.
+**STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “CHECK” is the definition. Because “REPORTEDLY” is not likely the definition. 
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 4 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since it’s a Homophone type puzzle, we need to find the wordplay word that the answer will sound like. Since “CHECK” is the definition, and “REPORTED” is the indicator, what’s left in the clue is “WEATHER FORECAST PERHAPS”. 
+From one direction, we will try to see what can we get from the clue “WEATHER FORECAST PERHAPS”
+1. First we see if there are any words that sound like “WEATHER”, “FORECAST” and “PERHAPS”? We can’t think of any. 
+2. Then we see if we can find the wordplay word from “WEATHER FORECAST PERHAPS”. 
+A “WEATHER FORECAST PERHAPS” could mean “RAIN”?
+It's still not quite clear what the answer can be. Let’s think from another direction: If we think about it:
+1. The answer is synonym of  “CHECK” 
+2. The answer is one word with 4 letters
+3. The answer sounds like “RAIN”
+We may think of the word “REIN”. 
+And indeed,“REIN”, sounds like “RAIN”, and “REIN” fits under the definition “CHECK”. 
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “REIN” is indeed one word with 4 letters.  SECOND, The word “REIN” is a meaningful word and fits the definition “CHECK”. 
+So the answer is **REIN**
+
+
+**Clue**: It’s said to include part of circuit (7)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We can guess that the clue tells us that *it is* “SAID” *to include* “PART”. The word “SAID” seems to suggest that this puzzle is a Homophone type puzzle, but it’s actually the word “INCLUDE” that suggests that it’s a Sandwich type puzzle. That means we need to find two sets of wordplay words, and we will split one wordplay word and stuff the other wordplay word inside of it to form the answer. 
+**STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “OF CIRCUIT” is the definition.
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 7 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since it’s a Sandwich type puzzle, we will first find the two sets of wordplay words. We know that “OF CIRCUIT” is the definition and “INCLUDE” is the indicator. The clue tells us that *it is* “SAID” *to include* “PART”, so the wordplay from “SAID” will be outside the wordplay of “PART”.
+“SAID” could cue “ORAL”.
+It's still not quite clear what the answer can be. Let’s think from another direction: If we think about it:
+1. The answer is synonym of  “OF CIRCUIT” 
+2. The answer is one word with 7 letters
+3. We will put some word inside the letters “O R A L”
+we would think about the word “ORBITAL”: which is putting the word “BIT” inside of “ORAL”. And indeed, “PART” can reasonably cue “BIT”. 
+So we conclude that “SAID” cues “ORAL”, “PART” cues “BIT” and we will put “ORAL” outside of “BIT” to make it “ORBITAL”, which fits the definition “OF CIRCUIT”. 
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “ORBITAL” is indeed one word with 7 letters.  SECOND, The word “ORBITAL” is a meaningful word and fits the definition “OF CIRCUIT”. 
+So the answer is **ORBITAL**
+
+
+
+
+**Clue**: Zip fastener gymnast employs (6)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We can guess that the clue tells us the answer is in the “FASTENER GYMNAST” (getting) *employs*. The word “EMPLOYS” suggests that this puzzle is a Hidden Word type puzzle. That means the answer we need to find hides inside the concatenation of the words. We just need to concatenate words in the clue, and find the answer that hides inside of them.
+**STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “ZIP” is the definition. 
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 6 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since “ZIP” is the definition, and “EMPLOYS” is the indicator, then we probably should look at the rest of the sentence. Usually the hidden word answer hides at the connection of consecutive words —- it’s made from the end part of a word and the beginning part of the next word. So we will pay more attention to that. 
+First we will concatenate the rest of the sentence: the clue tells us the answer is in the “FASTENERGYMNAST”. And we are looking for the word that is:
+1. The synonym of “ZIP”
+2. One word with 4 letters long: So we will just scan the concatenate string with a ‘sliding window’ of 4 letters. (“FASTEN”, “ASTENE”, “STENER”, ……)
+3. Likely to hide at the connection place of words.
+We see that “ARID” in “FAST*ENERGY*MNAST” stands out. And indeed, “ENERGY” fits into the definition “ZIP”
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “ENERGY” is indeed one word with 6 letters.  SECOND, The word “ENERGY” is a meaningful word and fits the definition “ZIP”. 
+So the answer is **ENERGY**
+
+
+**Clue**: Wine to some extent features in a taverna (8)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We can guess that the clue tells us the answer is *to some extent (in the phrase)* “FEATURESINATAVERNA”. The phrase “TO SOME EXTENT” suggests that this puzzle is a Hidden Word type puzzle. That means the answer we need to find hides inside the concatenation of the words. We just need to concatenate words in the clue, and find the answer that hides inside of them.
+**STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “WINE” is the definition. 
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 8 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since “WINE” is the definition, and “TO SOME EXTENT” is the indicator, then we probably should look at the rest of the sentence. Usually the hidden word answer hides at the connection of consecutive words —- it’s made from the end part of a word and the beginning part of the next word. So we will pay more attention to that. 
+First we will concatenate the rest of the sentence: the clue tells us the answer is in the “FEATURESINATAVERNA”. And we are looking for the word that is:
+1. The synonym of “WINE”
+2. One word with 8 letters long: So we will just scan the concatenate string with a ‘sliding window’ of 8 letters. (“FEATURES”, “EATURESI”, “ATURESIN”, ……)
+3. Likely to hide at the connection place of words.
+We see that “RESINATA” in “FEATU*RESINATA*VERNA” stands out. And indeed, “RESINATA” fits into the definition “WINE”
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “RESINATA” is indeed one word with 6 letters.  SECOND, The word “RESINATA” is a meaningful word and fits the definition “WINE”. 
+So the answer is **RESINATA**
+
+
+**Clue**: Swimmer turning in special pool (6)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We can guess that the clue tells us the answer is *in* “SPECIAL POOL”. The phrase “IN” suggests that this puzzle is a Hidden Word type puzzle. That means the answer we need to find hides inside the concatenation of the words. We just need to concatenate words in the clue, and find the answer that hides inside of them.
+We can guess that the clue tells us that the answer is *turning* “IN SPECIAL POOL”. The word “TURNING” suggests that this puzzle is a Reversal type puzzle. That means we will first find the wordplay word to reverse, and then we will reverse the letter of it to get the answer. 
+So there are two types of puzzles in this clue: Hidden Word and Reversal. So our plan is to find the wordsplay phrase, reverse the letters in the wordplay phrase, and then find the answer that is hiding inside. 
+**STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “SWIMMER” is the definition. 
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 6 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since “SWIMMER” is the definition, and “IN” is the indicator, then we probably should look at the rest of the sentence. 
+From one direction, we see that the clue tells us the answer is *IN* “SPECIAL POOL”: so we will concatenate it and get “SPECIALPOOL”. 
+Then since “SPECIALPOOL” is the wordplay phrase and “TURNING” is the indicator that says it’s a Reversal type, we will reverse the letters in “SPECIALPOOL” and get “LOOPLAICEPS”.
+It's still not quite clear what the answer can be. Let’s think from another direction: If we think about it:
+1. The answer is a “SWIMMER”
+2. One word with 6 letters long: So we will just scan the concatenate string with a ‘sliding window’ of 4 letters. (“LOOPLA”, “OOPLAI”, “OPLAIC”, ……)
+3. Likely to hide at the connection place of words.
+Then we can think of the word “PLAICE”. And indeed, “PLAICE” is a fish, so it is a “SWIMMER”.
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “PLAICE” is indeed one word with 6 letters.  SECOND, The word “PLAICE” is a meaningful word and fits the definition “SWIMMER”. 
+So the answer is **PLAICE**
+
+
+**Clue**: From which spectators watch odd parts of their contest (7)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We can guess that the clue tells us the answer is *odd parts of* “THEIR CONTEST”. The phrase “ODD PART OF” suggests that this puzzle is a Letter Manipulation - Concatenation type puzzle. That means we will take the odd letters to concatenate, and then look if there are words hiding inside the concatenated string..
+We also guess that the clue tells us the answer is this is *odd parts of* “THEIR” + “CONTEST”. Which means we will add the wordplay words together to form the answer, which means it’s also a Charade (additive) type of question, 
+So there are two types of puzzles in this clue: Letter Manipulation - Concatenation and Charade (additive) . So our plan is to find the odd letters of “THEIR”, and the wordplay word of “CONTEST” and add them together to get the answer. 
+**STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “FROM WHICH SPECTATORS WATCH” is the definition. 
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 7 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: 
+The odd letters of “THEIR” are “T E R”. 
+It's still not quite clear what the answer can be. Let’s think from another direction: If we think about it:
+1. The answer is “FROM WHICH SPECTATORS WATCH” 
+2. The answer is one word with 7 letters
+3. The answer starts with “TER”
+we would think about the word “TERRACE”. Which is “TER” + “RACE”. And indeed, “CONTEST” reasonably cues “RACE”.
+So to conclude, we will take the odd letters of “THEIR” to get “T E R”, and add it to what  “CONTEST” cues, “RACE”, and we will get “TERRACE”, which fits the definition “FROM WHICH SPECTATORS WATCH”.
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “TERRACE” is indeed one word with 7 letters.  SECOND, The word “TERRACE” is a meaningful word and fits the definition “FROM WHICH SPECTATORS WATCH”. 
+So the answer is **TERRACE**
+
+
+**Clue**: Not an irreversible mistake (4)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We can guess that the clue tells us the answer is *Not an irreversible*. The phrase “NOT AN IRREVERSIBLE”, which means *reversible*, suggests that this puzzle is a Palindromes type puzzle. That means, we will look at the definition, and the enumeration, and try to think of as many palindromes as possible, and pick the most possible one as our answer. 
+**STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “MISTAKE” is the definition. 
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 4 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since “MISTAKE” is the definition, and “NOT AN IRREVERSIBLE” is the indicator:
+First we will think of some palindromes, including informal or colloquial terms, that could relate to the definition “MISTAKE”:
+Boob, deed, noon.
+Then, we will look at our choices, and “BOOB” stands out because it fits the definition “MISTAKE” the best: Informally it refers to a foolish mistake or blunder.
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “BOOB” is indeed one word with 7 letters.  SECOND, The word “BOOB” is a meaningful word and fits the definition “MISTAKE”. And, “BOOB” is indeed a palindrome. 
+So the answer is **BOOB**
+
+
+**Clue**: Soldiers go in here when grand old duke changes direction (4)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We can guess that the clue tells us “GRAND OLD DUKE” *changes direction*. The word “CHANGES DIRECTION” could mean that we are switching “L” and “R”, suggesting that this puzzle is a Letter Manipulation - Replacing type puzzle. That means we will first find the wordplay word, and the letter to switch, then we will switch the letter in the wordplay word to get the answer. In particular, the phrase “CHANGES DIRECTION” suggests that after we found the wordplay word, we are replacing the “L” to “R” (or “R” to “L”) in the wordplay word. 
+**STEP 2**:
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “SOLDIERS GO IN HERE” is the definition.
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 4 letters long.  
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: 
+We know that the definition is “SOLDIERS GO IN HERE”, and the phrase “CHANGES DIRECTION” is the indicator. So when we look at the rest of the clue, the clue tells us that *when* “GRAND OLD DUKE” *changes direction*. 
+Considering the answer is 4 letters long, “GRAND OLD DUKE” could cue “YORK”, and then if we switch the “R” to “L”, we get “YOLK”. “YOLK” fits the definition “SOLDIERS GO IN HERE” because In the UK, "soldiers" refer to strips of buttered toast that are often dipped into a soft-boiled egg.
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “YOLK” is indeed one word that is 4 letters long.  SECOND, The word “YOLK” is a meaningful word and fits the definition “SOLDIERS GO IN HERE”. 
+So the answer is **YOLK**
+
+
+
+
+**Clue**: Stop heading for takeaways! (4)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We can guess that the clue tells us the answer is *heading for* “TAKEAWAYS”. The phrase “HEADING” suggests that this puzzle is a Letter Manipulation - Concatenation type puzzle. “FOR” is probably a linkword. That means we will take the initial letters of “TAKEAWAYS”.
+We also guess that the clue tells us the answer is this is “STOP” + *heading for* “TAKEAWAYS”. Which means we will add the wordplay words together to form the answer, which means it’s also a Charade (additive) type of question, 
+So there are two types of puzzles in this clue: Letter Manipulation - Concatenation and Charade (additive) . So our plan is to find the wordplay word of “STOP”, and then the initial letters of “TAKEAWAYS”, and add them together to get the answer. 
+**STEP 2**:
+We will then find the definition. Although the definition is almost always either at the beginning or end of the clue sentence or phrase, we see that the clue is a short sentence that is a clear description of something. And usually the clue ends in “!”, which is a common indicator for a “&lit” type puzzle. So this may be a “&lit” typed puzzle, and the definition will overlap with the wordplay, in this case the definition can be the entire sentence: “STOP HEADING FOR TAKEAWAYS”. 
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 4 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: 
+We know that the initial letters for “TAKEAWAYS” are “T”, but we need to think of the wordplay word for “STOP”, so that we can add “T” to it at the end. 
+It's still not quite clear what the answer can be. Let’s think from another direction: If we think about it:
+1. The answer is “STOP HEADING FOR TAKEAWAYS” 
+2. The answer is one word with 4 letters
+3. The answer ends with “T”
+we would think about the word “DIET”. Which is “DIE” + “T”. And indeed, “STOP” reasonably cues “DIE”.
+So to conclude, “STOP” cues “DIE”. and the initial letter for “TAKEAWAYS” is “T”, and we add them together to form “DIET”, which fits the definition “STOP HEADING FOR TAKEAWAYS!”
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “DIET” is indeed one word with 7 letters.  SECOND, The word “DIET” is a meaningful word and fits the definition “STOP HEADING FOR TAKEAWAYS”. 
+So the answer is **DIET**
+
+
+**Clue**: What could give actors no end of cachet? (5)
+**STEP 1**:
+We will start by identifying the type of the puzzle. 
+We can guess that the clue tells us *could give (by)* “ACTORS”. The phrase “COULD GIVE” suggests that this puzzle is an Anagram type puzzle. That means we need to shuffle the letters of the wordplay words to form the answer. The wordplay words to shuffle (the anagram fodder) can be word or phrase directly from the clue, or it could be indirect and cued by some words or phrase in the clue. 
+We can guess that the clue tells us *no* *end of* “CACHET”. The phrase “NO END OF” suggests that this puzzle is a Letter Manipulation - Deletion type puzzle. That means we are deleting something from the wordplay word. So we need to find the wordplay word, and find what should be deleted from the wordplay word. In this case, the thing to delete is probably *end of* “CACHET”.
+So there are two types of puzzles in this clue: Anagram and Letter Manipulation - Deletion. So our plan is to first find the anagram fodder (the wordplay word), and then find the parts to delete, and then perform anagram to get the answer. 
+**STEP 2**:
+We will then find the definition. Although the definition is almost always either at the beginning or end of the clue sentence or phrase, we see that the clue is a short sentence that is a clear description of something. And usually the clue ends in “?”, which is a common indicator for a “&lit” type puzzle. So this may be a “&lit” typed puzzle, and the definition will overlap with the wordplay, in this case the definition can be the entire sentence: “WHAT COULD GIVE ACTORS NO END OF CACHET?”. 
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 5 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: 
+Since it’s an Anagram type puzzle, we will try to find the anagram fodder. We know that “WHAT COULD GIVE ACTORS NO END OF CACHET?” is the definition and “COULD GIVE” is the indicator for Anagram, then we probably should find the anagram fodder in the rest of the sentence. The clue tells us *could give (by)* “ACTORS”. So we assume that “ACTORS” is the word we want to anagram. 
+Since “ACTORS” is the word we want to anagram, and “NO END OF" is the indicator for Letter Manipulation - Deletion, then we probably should look at the rest of the sentence. The clue tells us *end of* “CACHET”, so we probably should take the final letter “T” of “CACHET”. 
+Then we can conclude that we are removing “T” from “ACTORS”, so we have letters “A C O R S”.
+It's still not quite clear what the answer can be. Let’s think from another direction: If we think about it:
+1. The answer is the answer to  “WHAT COULD GIVE ACTORS NO END OF CACHET?”
+2. The answer is one word that is 5 letters long. 
+3. We have letters “A C O R S” to perform anagram.
+we would think about the word “OSCAR”. which fits the definition “WHAT COULD GIVE ACTORS NO END OF CACHET?”. 
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “OSCAR” is indeed one word that is 5 letters and 2 letters connected by “-”.  SECOND, The word “OSCAR” is a meaningful word and fits the definition “WHAT COULD GIVE ACTORS NO END OF CACHET?”. 
+So the answer is **OSCAR**
+
+
+
+
+**Clue**: They’re found in returning perhaps to origins (5)
+**STEP 1**:
+We can guess that the clue tells us that the answer is *returning* “PERHAPS TO ORIGINS”. The word “RETURNING” suggests that this puzzle is a Reversal type puzzle. That means we will first find the wordplay word to reverse, and then we will reverse the letter of it to get the answer. 
+We will start by identifying the type of the puzzle. We can guess that the clue tells us the answer is *found in* “RETURNING PERHAPS TO ORIGINS”. The phrase “FOUND IN” suggests that this puzzle is a Hidden Word type puzzle. That means the answer we need to find hides inside the concatenation of the words. We just need to concatenate words in the clue, and find the answer that hides inside of them.
+So there are two types of puzzles in this clue: Reversal and Hidden Word. So our plan is to find the wordsplay phrase, reverse the letters in the wordplay phrase, and then find the answer that is hiding inside. 
+**STEP 2**:
+We will then find the definition. Although the definition is almost always either at the beginning or end of the clue sentence or phrase, we see that the clue is a clear description of something. So this may be a “&lit” typed puzzle, and the definition will overlap with the wordplay, in this case the definition can be the entire sentence: “THEY’RE FOUND IN RETURNING PERHAPS TO ORIGINS”. 
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 5 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since “THEY’RE FOUND IN RETURNING PERHAPS TO ORIGINS” is the definition, and “RETURNING” is the indicator, then we probably should look at the rest of the sentence. 
+From one direction, we see that the clue tells us *returning* “PERHAPS TO ORIGINS”: so we will concatenate it and reverse it to get “SNIGIROOTSPAHREP”. 
+Then since “SNIGIROOTSPAHREP” is the wordplay phrase and the clue tells us the answer is *found in* “RETURNING PERHAPS TO ORIGINS”. The phrase “FOUND IN” is the indicator that it’s a Hidden type, we will scan the concatenate string with a ‘sliding window’ of 5 letters. (“SNIGI”, “NIGIR”, “IGIRO”, ……)
+It's still not quite clear what the answer can be. Let’s think from another direction: If we think about it:
+1. The answer is something that “THEY’RE FOUND IN RETURNING PERHAPS TO ORIGINS”
+2. One word with 5 letters long: So we will just scan the concatenate string with a ‘sliding window’ of 5 letters. 
+3. Likely to hide at the connection place of words.
+We see that “ROOTS” in “SNIGI*ROOTS*PAHREP” stands out. And indeed, “ROOTS” fits into the definition “THEY’RE FOUND IN RETURNING PERHAPS TO ORIGINS”. 
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “ROOTS” is indeed one word that is 5 letters long.  SECOND, The word “ROOTS” is a meaningful word and fits the definition “THEY’RE FOUND IN RETURNING PERHAPS TO ORIGINS”. 
+So the answer is **ROOTS**
+
+
+
+
+**Clue**: The stuff collected by shaking duster? (8)
+**STEP 1**:
+We can guess that the clue tells us *shaking* “DUSTER”. The word “SHAKING” suggests that this puzzle is an Anagram type puzzle. That means we need to shuffle the letters of the wordplay words to form the answer. The wordplay words to shuffle (the anagram fodder) can be word or phrase directly from the clue, or it could be indirect and cued by some words or phrase in the clue.
+We can guess that the clue tells us “THE STUFF” *(is) collected by* “SHAKING DUSTER”. The word “COLLECTED BY” suggests that this puzzle is a Sandwich type puzzle. “BY” is probably a linkword. That means we need to find two sets of wordplay words, and we will split one wordplay word and stuff the other wordplay word inside of it to form the answer. In this case, the wordplay word of “THE STUFF” is probably *inside* the wordplay word we get from “SHAKING DUSTER”
+So there are two types of puzzles in this clue: Anagram and Sandwich. So we can first solve the anagram part: *shaking* “DUSTER”, and then we find the wordplay word for “THE STUFF”, and finally we stuff “THE STUFF” inside “SHAKING DUSTER”. However, it is almost equivalent to first find both wordplay words, and get their letters, and then perform anagram on the letters. So that is what we are going to do. 
+**STEP 2**:
+We will then find the definition. Although the definition is almost always either at the beginning or end of the clue sentence or phrase, we see that the clue is a short sentence that is a clear description of something. And usually the clue ends in “?”, which is a common indicator for a “&lit” type puzzle. So this may be a “&lit” typed puzzle, and the definition will overlap with the wordplay, in this case the definition can be the entire sentence: “THE STUFF COLLECTED BY SHAKING DUSTER?”. 
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 8 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: 
+Since it’s a Sandwich type puzzle, we will first find the two sets of wordplay words. 
+“THE STUFF” could cue “IT”, because “THE STUFF” means “IT”. We can probably take “DUSTER” as it is. So we have “DUSTER IT” with letters “D U S T E R I T”.
+It's still not quite clear what the answer can be. Let’s think from another direction: If we think about it:
+1. The answer is “THE STUFF COLLECTED BY SHAKING DUSTER?” 
+2. The answer is one word 8 letters long
+3. We have letters “D U S T E R I T” to perform anagram.
+we would think about the word “DETRITUS”. which fits the definition “THE STUFF COLLECTED BY SHAKING DUSTER”. 
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “DETRITUS” is indeed one word with 8 letters.  SECOND, The word “DETRITUS” is a meaningful word and fits the definition “THE STUFF COLLECTED BY SHAKING DUSTER”. 
+So the answer is **DETRITUS**
+
+
+
+
+**Clue**: Festive occasion was put on canvas (7)
+**STEP 1**: 
+We will start by identifying the type of the puzzle. We guess that the clue tells us “WAS” *put on* “CANVAS”. Since it is a *down* type clue, the phrase “PUT ON” suggests that it is a Charade (additive) type of puzzle. That means we need to find wordplay words from words or phrases in the clue, and concatenate the wordplay words together. 
+**STEP 2**: 
+We will then find the definition. Since the definition is almost always either at the beginning or end of the clue sentence or phrase, we will assume “FESTIVE OCCASION” is the definition. 
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 7 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: since it’s a Charade type puzzle, we will try to find the wordplay words that each phrase in the puzzle cues. Since the clue tells us “WAS” *put on* “CANVAS”, we just need to find what “WAS” and “CANVAS” cue. 
+If we take “WAS” as it is:
+It's still not quite clear what the answer can be. Let’s think from another direction: If we think about it:
+1. The answer is related to “FESTIVE OCCASION” 
+2. The answer is one word with 7 letters
+3. The answer starts with “WAS”
+we would think about the word “WASSAIL”. Which is “WAS” + “SAIL”. And indeed, “CANVAS” reasonably cues “SAIL”. 
+To conclude: we take “WAS” as it is, and “CANVAS” cues “SAIL”, then we have “WASSAIL”, which is a beverage made for a “FESTIVE OCCASION”
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “WASSAIL” is indeed one word with 7 letters. SECOND, the word “WASSAIL” is a meaningful word and fits the definition “FESTIVE OCCASION”. 
+So the answer is **WASSAIL**
+
+
+
+
+**Clue**: What’s made only to snap in bits? (7, 6)
+**STEP 1**: 
+We will start by identifying the type of the puzzle. We cannot find any indicators for this clue, we assume that it is a Cryptic Definition type of puzzle. We will plan what to do: This seems like a question, so we will straightforwardly think of the answer. 
+**STEP 2**: 
+We will then find the definition. Although the definition is almost always either at the beginning or end of the clue sentence or phrase, we see that the clue is a short sentence that is a clear description of something. And usually the clue ends in “?”, which is a common indicator for a “&lit” type puzzle. So this may be a “&lit” typed puzzle, and the definition will overlap with the wordplay, in this case the definition can be the entire sentence: “WHAT’S MADE ONLY TO SNAP IN BITS?”. 
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be two words, 7 and 6 letters long each.
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: 
+When we look at the clue, “BITS” means binary digits, something related to the computer. 
+We need to find a phrase that could satisfies: 
+1. Answers the question “WHAT’S MADE ONLY TO SNAP IN BITS?”
+2. Two words, 7 and 6 letters long each
+3. Something that relates to computer
+We can think of the word “DIGITAL CAMERA”, which is “WHAT’S MADE ONLY TO SNAP IN BITS”. 
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “DIGITAL CAMERA” is indeed two words, 7 and 6 letters long each. SECOND, the word “two words, 7 and 6 letters long each.” is a meaningful word and fits the definition “WHAT’S MADE ONLY TO SNAP IN BITS”. 
+So the answer is **DIGITAL CAMERA**
+
+
+**Clue**: Responsibility for tax (4)
+**STEP 1**:
+We will start by identifying the type of the puzzle. We see that the clue can be separated into two reasonable descriptions of something, although there are 3 words in the clue, “FOR” is probaby a linkword, so there are two separate words left in the clue. This can be a scheme for Double Definition with linkwords. So I assume that this is a Double Definition type puzzle. That means we need to find the answer that simultaneously satisfies both definition, and the enumeration field. 
+**STEP 2**:
+We will then find the definition. Although the definition is almost always either at the beginning or end of the clue sentence or phrase, we see that the clue can be separated into two reasonable descriptions of something. Considering “FOR” is the linkword, the two definitions are: Definition 1 is “RESPONSIBILITY”, definition 2 is “TAX”. 
+**STEP 3**: 
+We will look at the word length of the answer. The enumeration suggests that the answer will be one word that is 4 letters long. 
+**STEP 4**: 
+We will solve the puzzle by following the plan we made in STEP 1: We know that the answer need to satisfy three constraints:
+1. It must fit definition 1: “RESPONSIBILITY”
+2. It must fit definition 2: “TAX”. 
+3. It must be one word that is 4 letters long. 
+So we can think of the word “DUTY”. Because “RESPONSIBILITY” can cue the word “DUTY” and “TAX” can also cue the word “DUTY”. 
+**STEP 5**:  
+We will check if the answer we found is correct. FIRST, it fits the enumeration, because “DUTY” is indeed one word with 4 letters.  SECOND, The word “DUTY” is a meaningful word and fits the definition “RESPONSIBILITY” and “TAX”. 
+So the answer is **DARTS**
