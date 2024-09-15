@@ -30,18 +30,21 @@ We slowly came to the realization that, maybe it's not the probelm of fine tunin
 ## How to see the evaluation results?
 The results are at the botom of each notebook, just scroll to the bottom to see them. (By the time this github is written, gpt-o1 only opens to website users. So we recorded the results in the docx file. )
 1. Zero shot QA: Located at PromptEngineering/NaiveQA.ipynb
+
     1.1. Zero shot QA for gpt-o1 and gpt-o1-mini:  PromptEngineering/Openai\ o1\ response.docx
 2. Handcrafted CoT: Located at PromptEngineering/CoT.ipynb
 3. Auto Strategy Selection: Located at PromptEngineering/AutoStrategySelection.ipynb
+   
     3.1. Auto Strategy Selection + Reflection is located in the same file. 
 ## How to replicate our results? 
 1. Run the PromptEngineering/Preprocessing.ipynb notebook
 2. Run the rest of the notebooks under PromptEngineering/Seq2Seq
+   
 Takes about 3 hours for each experiment in Auto Strategy Selection
 
 # Other resources in this github repo
 ## Handcrafted 5 step Auto Strategy Selection Context
-In order to teach the LLMs to perform auto strategy selection, I designed a 5-step CoT to help LLMs select strategies. I spend a while to take 53 special examples from the book *How to Master the Times Crossword: The Times Cryptic Crossword Demystified [Moorey (2008)]*, and then carefullt explain the association process, not just "What is correct" but rather "How do you think of that?". It turns out to be a bit waste of time, because appearantly someone in OpenAI already tired to do so, and gpt-models will automatically perform strategy selection when they encounters Cryptic crossword puzzles. The one thing that is trained during this process is probably me myself, I became much better at cryptic crossword puzzles after this. But if anyone is interested in becoming a crossword master, the 53 hand crafted examples are in PromptEngineering/InContextLearningExamples/. 
+In order to teach the LLMs to perform auto strategy selection, I designed a 5-step CoT to help LLMs select strategies. I spend a while to take 53 special examples from the book *How to Master the Times Crossword: The Times Cryptic Crossword Demystified [Moorey (2008)]*, and then carefullt explain the association process, not just "What is correct" but rather "How do you think of that?". It turns out to be a bit waste of time, because appearantly someone in OpenAI already tired to do so, and gpt-models will automatically perform strategy selection when they encounter Cryptic crossword puzzles. The one thing that is trained during this process is probably me myself, I became much better at cryptic crossword puzzles after this. But if anyone is interested in becoming a crossword master, the 53 hand crafted examples are in PromptEngineering/InContextLearningExamples/. 
 ## Wordplay Classifcations
 Also, after these days of research, I developed a new classification for wordplay catagories, the new classification might be better for machine to understand how to select strategies when they are performing surface reading, what kind of wordplay to perform, performing on which part of the clue, etc. So if you are interested, it's under PromptEngineering/DifferentClassifications.docx
 
