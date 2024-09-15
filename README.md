@@ -45,4 +45,5 @@ In order to teach the LLMs to perform auto strategy selection, I designed a 5-st
 ## Wordplay Classifcations
 Also, after these days of research, I developed a new classification for wordplay catagories, the new classification might be better for machine to understand how to select strategies when they are performing surface reading, what kind of wordplay to perform, performing on which part of the clue, etc. So if you are interested, it's under PromptEngineering/DifferentClassifications.docx
 
- 
+ # Results
+ All the results is already organized in the CryptoniteAnalysis.pdf. In short, we improved the results from 7.64% to 29.5% (Tested on partial dataset due to budget). The current STOA we can found on internet (before gpt-o1) is around 20%. So it is some kind of progress. 
